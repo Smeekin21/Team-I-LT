@@ -1798,3 +1798,84 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.04.15-22.34.18:727][485]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.15-22.34.18:727][485]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1.ScottLevel1
 [2024.04.15-22.34.18:727][485]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/Main_HUD_WG.Main_HUD_WG
+[2024.04.15-22.35.53:039][995]BlueprintLog: New page: Compile Main_HUD_WG
+[2024.04.15-22.35.53:081][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-22.35.55:712][240]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Widgets/Code_For_Door_UI.Code_For_Door_UI
+[2024.04.15-22.35.55:712][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-22.35.55:712][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-22.35.55:720][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-22.35.55:720][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-22.36.03:801][890]BlueprintLog: New page: Compile Code_For_Door_UI
+[2024.04.15-22.36.03:843][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.15-22.36.21:976][188]BlueprintLog: New page: Compile Code_For_Door_UI
+[2024.04.15-22.36.22:017][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.15-22.36.23:920][328]LogSlate: Window 'Code_For_Door_UI' being destroyed
+[2024.04.15-22.36.26:984][611]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.15-22.36.27:003][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-22.36.27:004][611]PIE: New page: PIE session: ScottLevel1 (16 Apr 2024, 00:36:27)
+[2024.04.15-22.36.27:004][611]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1
+[2024.04.15-22.36.27:028][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024047s)
+[2024.04.15-22.36.27:028][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1.ScottLevel1 to /Game/ScottStuff/UEDPIE_0_ScottLevel1.ScottLevel1 (0.024091s)
+[2024.04.15-22.36.27:044][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.15-22.36.27:049][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-22.36.27:049][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-22.36.27:049][611]LogAIModule: Creating AISystem for world ScottLevel1
+[2024.04.15-22.36.27:050][611]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2024.04.15-22.36.27:050][611]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-22.36.27:050][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-22.36.27:050][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-22.36.27:050][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-22.36.27:050][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-22.36.27:050][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-22.36.27:052][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-22.36.27:163][611]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-22.36.27:163][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-22.36.27:163][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-22.36.27:163][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-22.36.27:164][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.15-22.36.27:164][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.15-22.36.27:166][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.15-22.36.27:166][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.15-22.36.27:166][611]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.15-22.36.27:166][611]LogAudio: Display: Audio Device (ID: 11) registered with world 'ScottLevel1'.
+[2024.04.15-22.36.27:166][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.15-22.36.27:214][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-22.36.27:214][611]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-22.36.27:230][611]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1.ScottLevel1 up for play (max tick rate 0) at 2024.04.15-23.36.27
+[2024.04.15-22.36.27:230][611]LogWorld: Bringing up level for play took: 0.015932
+[2024.04.15-22.36.27:234][611]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.04.15-22.36.27:246][611]PIE: Server logged in
+[2024.04.15-22.36.27:246][611]PIE: Play in editor total start time 0.243 seconds.
+[2024.04.15-22.36.27:280][611]LogViewport: Scene viewport resized to 1912x970, mode Windowed.
+[2024.04.15-22.36.30:448][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-22.36.30:448][742]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1
+[2024.04.15-22.36.30:449][742]LogSlate: Window 'LaunchTitle_Group_I Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-22.36.30:454][742]LogWorld: UWorld::CleanupWorld for ScottLevel1, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-22.36.30:457][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-22.36.30:460][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-22.36.30:465][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-22.36.30:487][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-22.36.30:488][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.15-22.36.30:488][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.15-22.36.30:491][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.15-22.36.30:510][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.15-22.36.30:598][743]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.04.15-22.36.46:339][466]BlueprintLog: New page: Compile Main_HUD_WG
+[2024.04.15-22.36.46:376][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.15-22.36.48:165][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.15-22.36.49:174][666]LogSlate: Window 'Save Content' being destroyed
+[2024.04.15-22.36.49:182][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-22.36.49:304][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/Code_For_Door_UI
+[2024.04.15-22.36.49:305][666]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Code_For_Door_UIFCFDE2FD4B0BFE43BBC739AB92FB3270.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ThirdPerson/Widgets/Code_For_Door_UI.uasset'
+[2024.04.15-22.36.49:335][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/Main_HUD_WG
+[2024.04.15-22.36.49:336][666]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Main_HUD_WG604AD00A4DD3F065F3E9A99385E318F7.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ThirdPerson/Widgets/Main_HUD_WG.uasset'
+[2024.04.15-22.36.49:347][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 654 ms)
+[2024.04.15-22.36.49:350][666]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.15-22.36.49:350][666]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/Code_For_Door_UI.Code_For_Door_UI
+[2024.04.15-22.36.49:351][666]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/Main_HUD_WG.Main_HUD_WG

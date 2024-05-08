@@ -2209,3 +2209,435 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.08-17.32.31:059][411]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2024.05.08-17.32.38:928][465]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
 [2024.05.08-17.32.39:066][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.08-17.35.05:360][344]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.35.05:360][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.35.13:872][785]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide.KeyDoubleDoorSlide
+[2024.05.08-17.35.13:872][785]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.35.13:872][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.35.15:581][873]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.05.08-17.35.45:277][598]BlueprintLog: New page: Compile KeyDoubleDoorSlide
+[2024.05.08-17.35.45:342][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.08-17.35.53:255][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.35.53:255][  1]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:35:53)
+[2024.05.08-17.35.53:255][  1]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.35.53:293][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037769s)
+[2024.05.08-17.35.53:293][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.037807s)
+[2024.05.08-17.35.53:308][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.08-17.35.53:314][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.35.53:314][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.35.53:315][  1]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.35.53:315][  1]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2024.05.08-17.35.53:316][  1]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.35.53:316][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.35.53:316][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.35.53:316][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.35.53:316][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.35.53:316][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.35.53:319][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.35.53:436][  1]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.35.53:436][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.35.53:436][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.35.53:436][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.35.53:437][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.05.08-17.35.53:437][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.05.08-17.35.53:439][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.05.08-17.35.53:439][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.05.08-17.35.53:439][  1]LogInit: FAudioDevice initialized with ID 17.
+[2024.05.08-17.35.53:439][  1]LogAudio: Display: Audio Device (ID: 17) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.35.53:439][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.05.08-17.35.53:444][  1]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.35.53:467][  1]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.35.53
+[2024.05.08-17.35.53:467][  1]LogWorld: Bringing up level for play took: 0.023530
+[2024.05.08-17.35.53:471][  1]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.05.08-17.35.53:481][  1]PIE: Server logged in
+[2024.05.08-17.35.53:482][  1]PIE: Play in editor total start time 0.227 seconds.
+[2024.05.08-17.36.06:705][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.36.06:705][567]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.36.06:707][567]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.36.06:711][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.36.06:726][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.36.06:732][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.36.06:752][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-17.36.06:752][567]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.05.08-17.36.06:752][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.05.08-17.36.06:754][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.05.08-17.36.06:761][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.36.06:771][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.08-17.36.06:883][568]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.05.08-17.36.24:022][536]BlueprintLog: New page: Compile KeyDoubleDoorSlide
+[2024.05.08-17.36.24:061][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.08-17.36.25:915][619]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.08-17.36.25:934][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.36.25:934][619]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:36:25)
+[2024.05.08-17.36.25:934][619]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.36.25:973][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039141s)
+[2024.05.08-17.36.25:973][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.039176s)
+[2024.05.08-17.36.25:989][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.08-17.36.25:995][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.36.25:995][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.36.25:995][619]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.36.25:996][619]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2024.05.08-17.36.25:996][619]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.36.25:996][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.36.25:996][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.36.25:996][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.36.25:996][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.36.25:996][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.36.25:999][619]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.36.26:113][619]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.36.26:114][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.36.26:114][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.36.26:114][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.36.26:114][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.05.08-17.36.26:114][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.05.08-17.36.26:117][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.05.08-17.36.26:117][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.05.08-17.36.26:117][619]LogInit: FAudioDevice initialized with ID 18.
+[2024.05.08-17.36.26:117][619]LogAudio: Display: Audio Device (ID: 18) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.36.26:117][619]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.05.08-17.36.26:161][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.36.26:161][619]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.36.26:187][619]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.36.26
+[2024.05.08-17.36.26:188][619]LogWorld: Bringing up level for play took: 0.025776
+[2024.05.08-17.36.26:190][619]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.08-17.36.26:203][619]PIE: Server logged in
+[2024.05.08-17.36.26:205][619]PIE: Play in editor total start time 0.272 seconds.
+[2024.05.08-17.36.26:246][619]LogViewport: Scene viewport resized to 1946x970, mode Windowed.
+[2024.05.08-17.36.33:715][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.36.33:715][821]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.36.33:717][821]LogSlate: Window 'LaunchTitle_Group_I Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.08-17.36.33:778][821]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.36.33:785][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.36.33:803][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.36.33:813][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.36.33:839][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-17.36.33:840][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.05.08-17.36.33:840][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.08-17.36.33:842][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.08-17.36.33:861][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.08-17.36.33:951][822]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.08-17.36.41:817][235]BlueprintLog: New page: Compile KeyDoubleDoorSlide
+[2024.05.08-17.36.41:859][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.08-17.36.59:953][272]BlueprintLog: New page: Compile KeyDoubleDoorSlide
+[2024.05.08-17.37.00:006][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.08-17.37.06:069][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.37.06:069][562]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:37:06)
+[2024.05.08-17.37.06:069][562]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.37.06:107][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037942s)
+[2024.05.08-17.37.06:107][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.037986s)
+[2024.05.08-17.37.06:126][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.08-17.37.06:131][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.37.06:131][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.37.06:132][562]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.37.06:132][562]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2024.05.08-17.37.06:133][562]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.37.06:133][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.37.06:133][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.37.06:133][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.37.06:133][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.37.06:133][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.37.06:135][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.37.06:264][562]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.37.06:265][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.37.06:265][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.37.06:265][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.37.06:265][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.05.08-17.37.06:265][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.05.08-17.37.06:267][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.05.08-17.37.06:267][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.05.08-17.37.06:267][562]LogInit: FAudioDevice initialized with ID 19.
+[2024.05.08-17.37.06:267][562]LogAudio: Display: Audio Device (ID: 19) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.37.06:267][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.08-17.37.06:272][562]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.37.06:295][562]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.37.06
+[2024.05.08-17.37.06:296][562]LogWorld: Bringing up level for play took: 0.024060
+[2024.05.08-17.37.06:298][562]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.05.08-17.37.06:308][562]PIE: Server logged in
+[2024.05.08-17.37.06:308][562]PIE: Play in editor total start time 0.239 seconds.
+[2024.05.08-17.37.24:855][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.37.24:855][379]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.37.24:856][379]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.37.24:860][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.37.24:875][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.37.24:881][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.37.24:903][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-17.37.24:903][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.08-17.37.24:903][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.08-17.37.24:906][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.08-17.37.24:913][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.37.24:922][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.08-17.37.25:018][380]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.05.08-17.37.41:805][332]BlueprintLog: New page: Compile KeyDoubleDoorSlide
+[2024.05.08-17.37.41:845][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.08-17.38.51:183][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.08-17.38.51:190][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ScottStuff/ScottLevel1ver2' took 0.028
+[2024.05.08-17.38.51:191][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide] ([2] browsable assets)...
+[2024.05.08-17.38.51:192][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.38.51:321][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide.KeyDoubleDoorSlide]
+[2024.05.08-17.38.51:321][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide]
+[2024.05.08-17.38.51:344][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide_Auto1
+[2024.05.08-17.38.51:344][454]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/KeyDoubleDoorSlide_Auto102490D1042979DE899BC548962B09428.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Autosaves/Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide_Auto1.uasset'
+[2024.05.08-17.38.51:345][454]LogFileHelpers: Auto-saving content packages took 0.155
+[2024.05.08-17.41.37:394][ 88]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/jmeek/Downloads/PickUp_Sfx.wav)
+[2024.05.08-17.41.37:399][ 88]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave PickUp_Sfx...
+[2024.05.08-17.41.37:408][ 88]LogAudio: Display: Chunk sizes for SoundWave /Game/Sounds/Scotts_Sounds/PickUp_Sfx.PickUp_Sfx: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.08-17.41.37:414][ 88]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave PickUp_Sfx...
+[2024.05.08-17.41.37:423][ 88]LogAudio: Display: Chunk sizes for SoundWave /Game/Sounds/Scotts_Sounds/PickUp_Sfx.PickUp_Sfx: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.08-17.41.40:170][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ScottStuff/Blueprints/Doors/ScottsKey.ScottsKey
+[2024.05.08-17.41.40:171][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.41.40:171][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.41.55:424][ 95]BlueprintLog: New page: Compile ScottsKey
+[2024.05.08-17.41.55:466][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.08-17.41.58:402][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.41.58:402][200]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:41:58)
+[2024.05.08-17.41.58:403][200]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.41.58:441][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038973s)
+[2024.05.08-17.41.58:441][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.039023s)
+[2024.05.08-17.41.58:457][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.08-17.41.58:464][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.41.58:464][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.41.58:465][200]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.41.58:466][200]LogPlayLevel: PIE: World Init took: (0.001742s)
+[2024.05.08-17.41.58:466][200]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.41.58:466][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.41.58:466][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.41.58:466][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.41.58:466][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.41.58:466][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.41.58:469][200]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.41.58:586][200]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.41.58:586][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.41.58:586][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.41.58:586][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.41.58:587][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.05.08-17.41.58:587][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.05.08-17.41.58:589][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.05.08-17.41.58:589][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.05.08-17.41.58:589][200]LogInit: FAudioDevice initialized with ID 20.
+[2024.05.08-17.41.58:589][200]LogAudio: Display: Audio Device (ID: 20) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.41.58:589][200]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.05.08-17.41.58:592][200]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.41.58:614][200]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.41.58
+[2024.05.08-17.41.58:615][200]LogWorld: Bringing up level for play took: 0.022578
+[2024.05.08-17.41.58:617][200]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.05.08-17.41.58:628][200]PIE: Server logged in
+[2024.05.08-17.41.58:628][200]PIE: Play in editor total start time 0.227 seconds.
+[2024.05.08-17.42.04:344][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.42.04:344][383]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.42.04:345][383]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.42.04:350][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.42.04:369][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.42.04:375][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.42.04:392][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.42.04:392][383]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.05.08-17.42.04:392][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.05.08-17.42.04:394][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.05.08-17.42.04:411][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.08-17.42.04:534][384]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.08-17.42.08:308][563]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::AddComponent' [The specified module could not be found.]
+[2024.05.08-17.42.15:427][962]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/Scotts_Sounds/PickUp_Sfx.PickUp_Sfx
+[2024.05.08-17.42.20:068][224]LogSlate: Window 'PickUp_Sfx' being destroyed
+[2024.05.08-17.42.24:368][475]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds/Scotts_Sounds/PickUp_Sfx.PickUp_Sfx
+[2024.05.08-17.42.28:471][710]LogSlate: Window 'PickUp_Sfx' being destroyed
+[2024.05.08-17.42.36:067][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.42.36:067][108]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:42:36)
+[2024.05.08-17.42.36:067][108]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.42.36:107][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038971s)
+[2024.05.08-17.42.36:107][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.039017s)
+[2024.05.08-17.42.36:127][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.08-17.42.36:134][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.42.36:134][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.42.36:135][108]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.42.36:135][108]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2024.05.08-17.42.36:135][108]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.05.08-17.42.36:135][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.42.36:135][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.42.36:135][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.42.36:135][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.42.36:136][108]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.42.36:136][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.42.36:136][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.42.36:136][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.42.36:136][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.42.36:136][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.42.36:136][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.42.36:139][108]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.42.36:254][108]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.42.36:254][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.42.36:254][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.42.36:254][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.42.36:255][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.05.08-17.42.36:255][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.05.08-17.42.36:257][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.05.08-17.42.36:257][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.05.08-17.42.36:257][108]LogInit: FAudioDevice initialized with ID 21.
+[2024.05.08-17.42.36:257][108]LogAudio: Display: Audio Device (ID: 21) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.42.36:257][108]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.05.08-17.42.36:261][108]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.42.36:282][108]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.42.36
+[2024.05.08-17.42.36:283][108]LogWorld: Bringing up level for play took: 0.022339
+[2024.05.08-17.42.36:286][108]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.08-17.42.36:296][108]PIE: Server logged in
+[2024.05.08-17.42.36:296][108]PIE: Play in editor total start time 0.229 seconds.
+[2024.05.08-17.42.43:745][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.42.43:745][425]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.42.43:747][425]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.42.43:751][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.42.43:761][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.42.43:768][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.42.43:787][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-17.42.43:787][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.05.08-17.42.43:787][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.08-17.42.43:790][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.08-17.42.43:797][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.42.43:806][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.08-17.42.43:913][426]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.08-17.42.58:098][232]BlueprintLog: New page: Compile ScottsKey
+[2024.05.08-17.42.58:127][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.08-17.43.01:058][384]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.08-17.43.01:077][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.43.01:078][384]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:43:01)
+[2024.05.08-17.43.01:078][384]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.43.01:117][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039538s)
+[2024.05.08-17.43.01:117][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.039577s)
+[2024.05.08-17.43.01:132][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.08-17.43.01:134][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.43.01:135][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.43.01:135][384]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.43.01:135][384]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2024.05.08-17.43.01:136][384]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.43.01:136][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.43.01:136][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.43.01:136][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.43.01:136][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.43.01:136][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.43.01:139][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.43.01:251][384]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.43.01:253][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.43.01:253][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.43.01:253][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.43.01:253][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.05.08-17.43.01:253][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.05.08-17.43.01:256][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.05.08-17.43.01:256][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.05.08-17.43.01:256][384]LogInit: FAudioDevice initialized with ID 22.
+[2024.05.08-17.43.01:256][384]LogAudio: Display: Audio Device (ID: 22) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.43.01:256][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.05.08-17.43.01:316][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.43.01:316][384]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.43.01:342][384]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.43.01
+[2024.05.08-17.43.01:342][384]LogWorld: Bringing up level for play took: 0.025823
+[2024.05.08-17.43.01:346][384]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.05.08-17.43.01:359][384]PIE: Server logged in
+[2024.05.08-17.43.01:361][384]PIE: Play in editor total start time 0.283 seconds.
+[2024.05.08-17.43.01:400][384]LogViewport: Scene viewport resized to 1948x970, mode Windowed.
+[2024.05.08-17.43.14:085][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.43.14:085][674]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.43.14:086][674]LogSlate: Window 'LaunchTitle_Group_I Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.08-17.43.14:133][674]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.43.14:137][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.43.14:142][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.43.14:151][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.43.14:174][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-17.43.14:175][674]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.05.08-17.43.14:175][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.08-17.43.14:177][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.08-17.43.14:197][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.08-17.43.14:276][675]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.05.08-17.43.16:295][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-17.43.16:295][760]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 19:43:16)
+[2024.05.08-17.43.16:295][760]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.43.16:333][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037536s)
+[2024.05.08-17.43.16:334][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.037578s)
+[2024.05.08-17.43.16:351][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.08-17.43.16:354][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.43.16:354][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-17.43.16:355][760]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-17.43.16:356][760]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2024.05.08-17.43.16:356][760]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-17.43.16:356][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-17.43.16:356][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-17.43.16:356][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-17.43.16:356][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-17.43.16:356][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-17.43.16:359][760]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-17.43.16:483][760]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-17.43.16:484][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-17.43.16:484][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-17.43.16:484][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-17.43.16:485][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.05.08-17.43.16:485][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.05.08-17.43.16:486][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.05.08-17.43.16:487][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.05.08-17.43.16:487][760]LogInit: FAudioDevice initialized with ID 23.
+[2024.05.08-17.43.16:487][760]LogAudio: Display: Audio Device (ID: 23) registered with world 'ScottLevel1ver2'.
+[2024.05.08-17.43.16:487][760]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.08-17.43.16:490][760]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-17.43.16:513][760]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.08-18.43.16
+[2024.05.08-17.43.16:513][760]LogWorld: Bringing up level for play took: 0.023239
+[2024.05.08-17.43.16:515][760]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.05.08-17.43.16:525][760]PIE: Server logged in
+[2024.05.08-17.43.16:526][760]PIE: Play in editor total start time 0.231 seconds.
+[2024.05.08-17.43.24:535][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.43.24:535][ 99]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-17.43.24:536][ 99]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-17.43.24:540][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.43.24:550][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-17.43.24:557][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-17.43.24:574][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-17.43.24:578][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.08-17.43.24:578][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.08-17.43.24:580][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.08-17.43.24:596][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.08-17.43.24:682][100]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.05.08-17.43.25:465][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.05.08-17.43.26:357][113]LogSlate: Window 'Save Content' being destroyed
+[2024.05.08-17.43.26:367][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-17.43.26:465][113]LogSavePackage: Moving output files for package: /Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide
+[2024.05.08-17.43.26:466][113]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/KeyDoubleDoorSlideF909FEF641B1D90A37E7AF9A9063B4C8.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide.uasset'
+[2024.05.08-17.43.26:480][113]LogSavePackage: Moving output files for package: /Game/Sounds/Scotts_Sounds/PickUp_Sfx
+[2024.05.08-17.43.26:480][113]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/PickUp_SfxC0316B2E435D48BA14BD759A69CE0E58.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/Sounds/Scotts_Sounds/PickUp_Sfx.uasset'
+[2024.05.08-17.43.26:484][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-17.43.26:550][113]LogSavePackage: Moving output files for package: /Game/ScottStuff/Blueprints/Doors/ScottsKey
+[2024.05.08-17.43.26:551][113]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottsKey70CFAD4742DFAABE77F8D2BA698C21BD.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/Blueprints/Doors/ScottsKey.uasset'
+[2024.05.08-17.43.26:572][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 945 ms)
+[2024.05.08-17.43.26:578][113]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-17.43.26:578][113]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide.KeyDoubleDoorSlide
+[2024.05.08-17.43.26:578][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/Scotts_Sounds/PickUp_Sfx.PickUp_Sfx
+[2024.05.08-17.43.26:578][113]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ScottStuff/Blueprints/Doors/ScottsKey.ScottsKey

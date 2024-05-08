@@ -2336,3 +2336,1593 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.08-21.16.36:905][528]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wrecking_ball/wrekcing_ball_DefaultMaterial_Normal.wrekcing_ball_DefaultMaterial_Normal
 [2024.05.08-21.16.36:905][528]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wrecking_ball/wrekcing_ball_DefaultMaterial_OcclusionRoughnessMetallic.wrekcing_ball_DefaultMaterial_OcclusionRoughnessMetallic
 [2024.05.08-21.16.54:149][686]LogDerivedDataCache: C:/Users/jmeek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:05.945 and deleted 30 files with total size 0 MiB and 29 empty folders. Scanned 33973 files in 35706 folders with total size 2212 MiB.
+[2024.05.08-21.20.57:009][588]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.20.57:009][588]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-21.20.57:009][588]LogShaderCompilers: Display: Total job queries 60, among them cache hits 18 (30.00%)
+[2024.05.08-21.20.57:009][588]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 28 distinct outputs (66.67%)
+[2024.05.08-21.20.57:010][588]LogShaderCompilers: Display: RAM used: 896.15 KiB of 819.20 MiB budget. Usage: 0.11%
+[2024.05.08-21.20.57:010][588]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-21.20.57:010][588]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-21.20.57:010][588]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-21.20.57:010][588]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-21.20.57:010][588]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.21.24:828][454]LogContentBrowser: Deferred new asset file creation: wrekcing_ball_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.21.24:837][454]LogContentBrowser: Creating deferred item: wrekcing_ball_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.21.24:845][455]LogContentBrowser: Renaming the item being created (Deferred Item: wrekcing_ball_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.21.35:301][169]LogContentBrowser: Attempting asset rename: wrekcing_ball_DefaultMaterial_BaseColor_Mat -> Wrecking_Ball_MAT
+[2024.05.08-21.21.35:385][169]LogContentBrowser: End creating deferred item wrekcing_ball_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.21.36:244][214]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wrecking_ball/Wrecking_Ball_MAT.Wrecking_Ball_MAT
+[2024.05.08-21.21.36:342][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.21.36:355][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.21.37:111][214]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.21.37:111][214]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.21.37:111][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.37:111][214]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.21.37:295][214]LogSlate: Took 0.001214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.08-21.21.37:302][214]LogViewport: Scene viewport resized to 598x479, mode Windowed.
+[2024.05.08-21.21.37:601][216]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.21.37:601][216]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.21.37:601][216]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.21.37:601][216]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.21.37:601][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.37:601][216]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.21.39:174][294]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.21.39:485][327]LogSlate: Window 'Wrecking_Ball_MAT' being destroyed
+[2024.05.08-21.21.44:721][872]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.21.44:721][872]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.21.44:721][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.44:721][872]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.21.44:767][874]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.21.44:767][874]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.21.44:767][874]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.21.44:767][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.21.44:767][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.44:767][874]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.21.50:682][505]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.21.50:682][505]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.21.50:682][505]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.50:682][505]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.21.50:754][507]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.21.50:754][507]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.21.50:754][507]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.21.50:754][507]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.21.50:754][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.50:754][507]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.21.51:687][616]LogMaterialEditor: Applying material Wrecking_Ball_MAT
+[2024.05.08-21.21.51:881][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.08-21.21.52:077][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.08-21.21.52:086][616]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.21.52:086][616]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.21.52:086][616]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.52:086][616]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.21.52:095][617]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.21.52:095][617]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.21.52:095][617]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.21.52:095][617]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.21.52:095][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.21.52:095][617]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.22.03:320][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Wrecking_Ball/WB_Different_Direction.WB_Different_Direction
+[2024.05.08-21.22.03:325][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.22.03:325][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.22.03:345][407]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.08-21.22.06:468][521]LogViewport: Scene viewport resized to 1007x639, mode Windowed.
+[2024.05.08-21.22.42:596][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.22.42:663][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.22.42:755][461]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Wrecking_Ball/WB_Different_Direction
+[2024.05.08-21.22.42:756][461]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/WB_Different_Direction1560E0334960F5D080A897BFA1BF578F.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ThirdPerson/Blueprints/Wrecking_Ball/WB_Different_Direction.uasset'
+[2024.05.08-21.22.42:772][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 31.4 sec)
+[2024.05.08-21.22.42:775][461]AssetCheck: New page: Asset Save: WB_Different_Direction
+[2024.05.08-21.22.42:775][461]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Wrecking_Ball/WB_Different_Direction.WB_Different_Direction
+[2024.05.08-21.23.11:764][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.08-21.23.12:836][419]LogSlate: Window 'Save Content' being destroyed
+[2024.05.08-21.23.12:848][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.23.13:028][419]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wrecking_ball/Wrecking_Ball_MAT
+[2024.05.08-21.23.13:028][419]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Wrecking_Ball_MAT8224BD424843B704BD099F8C55C531A6.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wrecking_ball/Wrecking_Ball_MAT.uasset'
+[2024.05.08-21.23.13:042][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 31.6 sec)
+[2024.05.08-21.23.13:277][419]LogLinker: Warning: [AssetLog] C:\Users\jmeek\OneDrive\Documents\GitHub\Team-I-LT\LaunchTitle_Group_I\Content\BlockingStarterPack\Props\Light\SM_CeilingLightRotaryWarning.uasset: Failed to load '/Game/BlockingStarterPack/Materials/Blocking/M_DevBlack': Can't find file.
+[2024.05.08-21.23.13:278][419]LogLinker: Warning: [AssetLog] C:\Users\jmeek\OneDrive\Documents\GitHub\Team-I-LT\LaunchTitle_Group_I\Content\BlockingStarterPack\Props\Light\SM_CeilingLightRotaryWarning.uasset: VerifyImport: Failed to load package for import object 'Package /Game/BlockingStarterPack/Materials/Blocking/M_DevBlack'
+[2024.05.08-21.23.13:278][419]LogLinker: Warning: [AssetLog] C:\Users\jmeek\OneDrive\Documents\GitHub\Team-I-LT\LaunchTitle_Group_I\Content\BlockingStarterPack\Props\Light\SM_CeilingLightRotaryWarning.uasset: Failed to load '/Game/BlockingStarterPack/Materials/Light/M_DevLight': Can't find file.
+[2024.05.08-21.23.13:278][419]LogLinker: Warning: [AssetLog] C:\Users\jmeek\OneDrive\Documents\GitHub\Team-I-LT\LaunchTitle_Group_I\Content\BlockingStarterPack\Props\Light\SM_CeilingLightRotaryWarning.uasset: VerifyImport: Failed to load package for import object 'Package /Game/BlockingStarterPack/Materials/Light/M_DevLight'
+[2024.05.08-21.23.15:162][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.23.15:262][419]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.23.15:265][419]Cmd: MAP LOAD FILE="../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.08-21.23.15:266][419]LightingResults: New page: Lighting Build
+[2024.05.08-21.23.15:266][419]LoadErrors: New page: Loading map: ScottLevel1ver2.umap
+[2024.05.08-21.23.15:410][419]LogWorld: UWorld::CleanupWorld for KeelanLevel2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.23.15:421][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.23.15:430][419]MapCheck: New page: Map Check
+[2024.05.08-21.23.15:430][419]LightingResults: New page: Lighting Build
+[2024.05.08-21.23.15:461][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-21.23.15:527][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.05.08-21.23.15:553][419]LogStaticMesh: Display: Waiting for static meshes to be ready 0/154 (/Game/ScottStuff/PropModels/Scalfotine1) ...
+[2024.05.08-21.23.15:666][419]LogStaticMesh: Display: Waiting for static meshes to be ready 112/154 (/Game/ScottStuff/Room) ...
+[2024.05.08-21.23.15:719][419]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.23.15:721][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.23.15:755][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.08-21.23.15:777][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.08-21.23.15:836][419]LogAudio: Display: Audio Device (ID: 1) registered with world 'ScottLevel1ver2'.
+[2024.05.08-21.23.15:838][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.23.15:839][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.23.15:841][419]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-21.23.16:069][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.08-21.23.16:107][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.08-21.23.16:128][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.08-21.23.16:128][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.55ms to complete.
+[2024.05.08-21.23.16:154][419]AssetCheck: New page: Asset Save: Wrecking_Ball_MAT
+[2024.05.08-21.23.16:154][419]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wrecking_ball/Wrecking_Ball_MAT.Wrecking_Ball_MAT
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.16:260][419]MaterialEditorStats: Shader Count: 16
+[2024.05.08-21.23.16:611][424]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.23.38:557][671]LogContentBrowser: Deferred new asset file creation: grate_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.23.38:570][671]LogContentBrowser: Creating deferred item: grate_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.23.38:579][672]LogContentBrowser: Renaming the item being created (Deferred Item: grate_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.23.45:103][ 36]LogContentBrowser: Attempting asset rename: grate_DefaultMaterial_BaseColor_Mat -> Grate_MAT
+[2024.05.08-21.23.45:140][ 36]LogContentBrowser: End creating deferred item grate_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.23.46:263][ 91]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/grate/Grate_MAT.Grate_MAT
+[2024.05.08-21.23.46:268][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.23.46:268][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.23.46:461][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.23.46:461][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.23.46:461][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.46:461][ 91]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.23.46:465][ 91]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.23.46:524][ 93]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.23.46:524][ 93]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.23.46:524][ 93]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.23.46:524][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.23.46:524][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.46:524][ 93]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.23.50:588][493]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.23.50:588][493]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.23.50:588][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.50:588][493]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.23.50:635][495]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.23.50:635][495]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.23.50:635][495]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.23.50:635][495]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.23.50:635][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.50:635][495]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.23.57:374][196]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.23.57:374][196]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.23.57:374][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.57:374][196]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: Total job queries 203, among them cache hits 125 (61.58%)
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: Tracking 78 distinct input hashes that result in 49 distinct outputs (62.82%)
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: RAM used: 1.65 MiB of 819.20 MiB budget. Usage: 0.20%
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-21.23.57:439][197]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.23.57:447][198]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.23.57:447][198]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.23.57:447][198]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.23.57:447][198]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.23.57:447][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.57:447][198]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.23.58:385][306]LogMaterialEditor: Applying material Grate_MAT
+[2024.05.08-21.23.58:484][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.08-21.23.58:670][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.08-21.23.58:682][306]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.23.58:682][306]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.23.58:682][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.58:682][306]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.23.58:691][307]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.23.58:691][307]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.23.58:691][307]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.23.58:691][307]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.23.58:691][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.23.58:691][307]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.24.10:436][954]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ScottStuff/EnviromentModels/Eve/grate.grate
+[2024.05.08-21.24.10:456][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.24.10:456][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.24.11:143][954]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.24.19:196][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.24.19:311][843]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentModels/Eve/grate
+[2024.05.08-21.24.19:313][843]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/grateB59727D84B233C5BB282EABA4C76CF4B.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentModels/Eve/grate.uasset'
+[2024.05.08-21.24.19:325][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 31.7 sec)
+[2024.05.08-21.24.19:327][843]AssetCheck: New page: Asset Save: grate
+[2024.05.08-21.24.19:327][843]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ScottStuff/EnviromentModels/Eve/grate.grate
+[2024.05.08-21.24.42:332][185]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.24.42:332][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.24.43:346][287]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.24.43:346][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.24.44:487][403]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.24.44:487][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.24.53:072][240]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ScottStuff/EnviromentModels/Eve/door_huge_top.door_huge_top
+[2024.05.08-21.24.53:078][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.24.53:078][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.24.53:582][240]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.24.56:364][521]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ScottStuff/EnviromentModels/Eve/door_huge_bottom.door_huge_bottom
+[2024.05.08-21.24.56:372][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.24.56:372][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.24.56:971][521]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.25.09:877][314]LogContentBrowser: Deferred new asset file creation: door_huge_top_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.25.09:889][314]LogContentBrowser: Creating deferred item: door_huge_top_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.25.09:900][315]LogContentBrowser: Renaming the item being created (Deferred Item: door_huge_top_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.25.21:866][ 19]LogContentBrowser: Attempting asset rename: door_huge_top_DefaultMaterial_BaseColor_Mat -> Door_Huge_Top_MAT
+[2024.05.08-21.25.21:900][ 19]LogContentBrowser: End creating deferred item door_huge_top_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.25.23:838][122]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_top/Door_Huge_Top_MAT.Door_Huge_Top_MAT
+[2024.05.08-21.25.23:842][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.25.23:843][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.25.24:026][122]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.25.24:026][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.25.24:026][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.24:026][122]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.25.24:032][122]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.25.24:248][124]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.25.24:248][124]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.25.24:248][124]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.25.24:249][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.25.24:249][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.24:249][124]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.25.28:861][571]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.25.28:861][571]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.25.28:861][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.28:861][571]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.25.28:909][573]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.25.28:909][573]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.25.28:909][573]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.25.28:909][573]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.25.28:909][573]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.28:909][573]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.25.35:980][303]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.25.35:980][303]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.25.35:980][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.35:980][303]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.25.36:053][305]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.25.36:053][305]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.25.36:053][305]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.25.36:053][305]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.25.36:053][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.36:053][305]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.25.36:880][397]LogMaterialEditor: Applying material Door_Huge_Top_MAT
+[2024.05.08-21.25.37:024][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.08-21.25.37:212][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.08-21.25.37:224][397]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.25.37:224][397]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.25.37:224][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.37:224][397]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.25.37:235][398]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.25.37:235][398]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.25.37:235][398]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.25.37:235][398]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.25.37:235][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.25.37:235][398]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.25.50:756][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.25.50:870][920]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentModels/Eve/door_huge_top
+[2024.05.08-21.25.50:872][920]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/door_huge_top4340AF5E443A9045F4D804BB9C9DD984.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentModels/Eve/door_huge_top.uasset'
+[2024.05.08-21.25.50:892][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 31.8 sec)
+[2024.05.08-21.25.50:894][920]AssetCheck: New page: Asset Save: door_huge_top
+[2024.05.08-21.25.50:894][920]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ScottStuff/EnviromentModels/Eve/door_huge_top.door_huge_top
+[2024.05.08-21.26.10:480][410]LogContentBrowser: Deferred new asset file creation: door_huge_bottom_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.26.10:496][410]LogContentBrowser: Creating deferred item: door_huge_bottom_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.26.10:506][411]LogContentBrowser: Renaming the item being created (Deferred Item: door_huge_bottom_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.26.23:192][866]LogContentBrowser: Attempting asset rename: door_huge_bottom_DefaultMaterial_BaseColor_Mat -> Door_Huge_Bottom_MAT
+[2024.05.08-21.26.23:205][866]LogContentBrowser: End creating deferred item door_huge_bottom_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.26.23:972][935]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_bottom/Door_Huge_Bottom_MAT.Door_Huge_Bottom_MAT
+[2024.05.08-21.26.23:976][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.26.23:977][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.26.24:151][935]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.26.24:151][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.26.24:151][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.24:151][935]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.26.24:156][935]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.26.24:204][937]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.26.24:204][937]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.26.24:204][937]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.26.24:204][937]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.26.24:204][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.24:204][937]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.26.27:887][317]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.26.27:887][317]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.26.27:887][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.27:887][317]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.26.27:940][319]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.26.27:940][319]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.26.27:940][319]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.26.27:940][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.26.27:940][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.27:940][319]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.26.32:878][844]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.26.32:878][844]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.26.32:878][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.32:878][844]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.26.32:993][846]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.26.32:993][846]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.26.32:993][846]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.26.32:993][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.26.32:993][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.32:993][846]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.26.33:888][947]LogMaterialEditor: Applying material Door_Huge_Bottom_MAT
+[2024.05.08-21.26.33:988][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.08-21.26.34:189][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.08-21.26.34:201][947]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.26.34:201][947]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.26.34:201][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.34:201][947]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.26.34:211][948]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.26.34:211][948]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.26.34:211][948]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.26.34:211][948]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.26.34:211][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.26.34:211][948]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.26.40:966][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.26.41:071][707]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentModels/Eve/door_huge_bottom
+[2024.05.08-21.26.41:072][707]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/door_huge_bottom536B2D6B489A78E7152DE8B7272B6FC1.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentModels/Eve/door_huge_bottom.uasset'
+[2024.05.08-21.26.41:080][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 32.0 sec)
+[2024.05.08-21.26.41:082][707]AssetCheck: New page: Asset Save: door_huge_bottom
+[2024.05.08-21.26.41:082][707]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ScottStuff/EnviromentModels/Eve/door_huge_bottom.door_huge_bottom
+[2024.05.08-21.27.12:580][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ScottStuff/Blueprints/Doors/KeyDoubleDoorSlide.KeyDoubleDoorSlide
+[2024.05.08-21.27.12:580][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.27.12:580][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.27.12:784][392]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.05.08-21.27.14:128][531]LogViewport: Scene viewport resized to 1007x639, mode Windowed.
+[2024.05.08-21.27.18:914][996]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ScottStuff/EnviromentModels/Level1/Room2/SI-FI_Level_2_Door_Frame_022.SI-FI_Level_2_Door_Frame_022
+[2024.05.08-21.27.18:920][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.27.18:920][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.27.19:566][996]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.28.43:292][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ScottStuff/Blueprints/Doors/Button_Presure_Door.Button_Presure_Door
+[2024.05.08-21.28.43:292][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.28.43:292][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.28.44:689][191]LogViewport: Scene viewport resized to 1007x639, mode Windowed.
+[2024.05.08-21.29.06:823][665]BlueprintLog: New page: Compile Button_Presure_Door
+[2024.05.08-21.29.06:879][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.08-21.29.22:843][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.32.40:236][872]LogContentBrowser: Deferred new asset file creation: chain_link_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.32.40:252][872]LogContentBrowser: Creating deferred item: chain_link_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.32.40:261][873]LogContentBrowser: Renaming the item being created (Deferred Item: chain_link_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.32.49:758][969]LogContentBrowser: Attempting asset rename: chain_link_DefaultMaterial_BaseColor_Mat -> Chain_Link_MAT
+[2024.05.08-21.32.49:772][969]LogContentBrowser: End creating deferred item chain_link_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: Total job queries 357, among them cache hits 279 (78.15%)
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: Tracking 78 distinct input hashes that result in 49 distinct outputs (62.82%)
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: RAM used: 1.65 MiB of 819.20 MiB budget. Usage: 0.20%
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-21.32.49:819][973]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.32.50:612][ 39]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/chain_link/Chain_Link_MAT.Chain_Link_MAT
+[2024.05.08-21.32.50:617][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.32.50:617][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.32.50:807][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.32.50:807][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.32.50:807][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.32.50:807][ 39]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.32.50:813][ 39]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.32.50:859][ 41]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.32.50:859][ 41]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.32.50:859][ 41]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.32.50:860][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.32.50:860][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.32.50:860][ 41]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.32.54:609][423]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.32.54:609][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.32.54:610][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.32.54:610][423]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.32.54:658][425]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.32.54:658][425]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.32.54:658][425]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.32.54:658][425]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.32.54:658][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.32.54:658][425]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.33.00:030][970]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.33.00:030][970]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.00:030][970]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.00:030][970]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.33.00:079][972]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.33.00:079][972]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.33.00:079][972]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.33.00:079][972]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.00:079][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.00:079][972]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.33.00:828][ 55]LogMaterialEditor: Applying material Chain_Link_MAT
+[2024.05.08-21.33.00:976][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.08-21.33.01:154][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.08-21.33.01:165][ 55]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.33.01:165][ 55]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.01:165][ 55]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.01:165][ 55]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.33.01:174][ 56]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.33.01:175][ 56]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.33.01:175][ 56]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.33.01:175][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.01:175][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.01:175][ 56]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.33.07:789][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.08-21.33.09:476][510]LogSlate: Window 'Save Content' being destroyed
+[2024.05.08-21.33.09:497][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.33.09:648][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.08-21.33.09:826][510]LogSavePackage: Moving output files for package: /Game/ScottStuff/ScottLevel1ver2
+[2024.05.08-21.33.09:827][510]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottLevel1ver2641CA5784C6DD26551C2A29E41FF7100.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap'
+[2024.05.08-21.33.09:853][510]LogFileHelpers: Saving map 'ScottLevel1ver2' took 0.282
+[2024.05.08-21.33.09:853][510]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.33.09:931][510]LogSavePackage: Moving output files for package: /Game/ScottStuff/Blueprints/Doors/Button_Presure_Door
+[2024.05.08-21.33.09:932][510]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Button_Presure_DoorB811B124493A19350A0EB98F78B5EDA7.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/Blueprints/Doors/Button_Presure_Door.uasset'
+[2024.05.08-21.33.09:959][510]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/chain_link/Chain_Link_MAT
+[2024.05.08-21.33.09:959][510]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Chain_Link_MATA2A8CB304F1ABFD98C46149E8DAF1719.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/chain_link/Chain_Link_MAT.uasset'
+[2024.05.08-21.33.09:988][510]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_bottom/Door_Huge_Bottom_MAT
+[2024.05.08-21.33.09:988][510]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Door_Huge_Bottom_MAT4E5A7B3C4D98E4EACD832E8C2569406E.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_bottom/Door_Huge_Bottom_MAT.uasset'
+[2024.05.08-21.33.10:014][510]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_top/Door_Huge_Top_MAT
+[2024.05.08-21.33.10:014][510]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Door_Huge_Top_MATB4BF8E504BBD15879F39DCBE2E4BDE9D.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_top/Door_Huge_Top_MAT.uasset'
+[2024.05.08-21.33.10:040][510]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/grate/Grate_MAT
+[2024.05.08-21.33.10:041][510]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Grate_MAT16371D2B4677C9133674E9AC193633A7.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/grate/Grate_MAT.uasset'
+[2024.05.08-21.33.10:051][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 553 ms (total: 32.5 sec)
+[2024.05.08-21.33.10:059][510]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-21.33.10:059][510]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.33.10:059][510]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ScottStuff/Blueprints/Doors/Button_Presure_Door.Button_Presure_Door
+[2024.05.08-21.33.10:059][510]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/chain_link/Chain_Link_MAT.Chain_Link_MAT
+[2024.05.08-21.33.10:059][510]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_bottom/Door_Huge_Bottom_MAT.Door_Huge_Bottom_MAT
+[2024.05.08-21.33.10:059][510]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/door_huge_top/Door_Huge_Top_MAT.Door_Huge_Top_MAT
+[2024.05.08-21.33.10:059][510]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/grate/Grate_MAT.Grate_MAT
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Shader Count: 16
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Shader Count: 16
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.33.10:060][510]MaterialEditorStats: Shader Count: 16
+[2024.05.08-21.33.15:556][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.08-21.33.15:560][823]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.33.15:560][823]Cmd: MAP LOAD FILE="../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.08-21.33.15:560][823]LightingResults: New page: Lighting Build
+[2024.05.08-21.33.15:560][823]LoadErrors: New page: Loading map: ScottLevel1ver2.umap
+[2024.05.08-21.33.15:653][823]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.33.15:653][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.33.15:654][823]MapCheck: New page: Map Check
+[2024.05.08-21.33.15:654][823]LightingResults: New page: Lighting Build
+[2024.05.08-21.33.15:668][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-21.33.15:682][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.08-21.33.15:741][823]LogAudio: Display: Audio Device (ID: 1) registered with world 'ScottLevel1ver2'.
+[2024.05.08-21.33.15:741][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.33.15:742][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.33.15:742][823]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-21.33.15:859][823]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.08-21.33.15:883][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.08-21.33.15:903][823]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.08-21.33.15:903][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.226ms to complete.
+[2024.05.08-21.33.20:286][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.08-21.33.20:414][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.33.20:452][ 62]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/KeelanLevel2.KeelanLevel2
+[2024.05.08-21.33.20:452][ 62]Cmd: MAP LOAD FILE="../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ThirdPerson/KeelanLevel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.08-21.33.20:452][ 62]LightingResults: New page: Lighting Build
+[2024.05.08-21.33.20:452][ 62]LoadErrors: New page: Loading map: KeelanLevel2.umap
+[2024.05.08-21.33.20:515][ 62]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.33.20:515][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.33.20:515][ 62]MapCheck: New page: Map Check
+[2024.05.08-21.33.20:515][ 62]LightingResults: New page: Lighting Build
+[2024.05.08-21.33.20:536][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-21.33.20:546][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.08-21.33.20:551][ 62]LogWorld: UWorld::CleanupWorld for KeelanLevel2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.33.20:552][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.33.20:575][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.08-21.33.20:596][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.08-21.33.20:640][ 62]LogAudio: Display: Audio Device (ID: 1) registered with world 'KeelanLevel2'.
+[2024.05.08-21.33.20:640][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.33.20:640][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.33.20:641][ 62]LogAIModule: Creating AISystem for world KeelanLevel2
+[2024.05.08-21.33.20:753][ 62]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.08-21.33.20:775][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.08-21.33.20:789][ 62]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.08-21.33.20:792][ 62]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.834ms to complete.
+[2024.05.08-21.33.25:226][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Wrecking_Ball/WB_Different_Direction.WB_Different_Direction
+[2024.05.08-21.33.25:227][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.33.25:227][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.33.27:325][544]LogViewport: Scene viewport resized to 1007x639, mode Windowed.
+[2024.05.08-21.33.31:622][978]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPerson/Assets/chain_link.chain_link
+[2024.05.08-21.33.31:628][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.33.31:629][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.33.32:211][978]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.33.38:346][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.33.38:469][594]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Assets/chain_link
+[2024.05.08-21.33.38:470][594]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/chain_link6637793C499796E2E238F799A67E5A99.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ThirdPerson/Assets/chain_link.uasset'
+[2024.05.08-21.33.38:479][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 32.6 sec)
+[2024.05.08-21.33.38:482][594]AssetCheck: New page: Asset Save: chain_link
+[2024.05.08-21.33.38:482][594]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Assets/chain_link.chain_link
+[2024.05.08-21.33.39:639][714]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.33.39:639][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.33.49:199][774]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.33.49:200][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.33.50:989][959]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.33.50:990][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.14:955][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Wrecking_Ball/WB_Different_Direction.WB_Different_Direction
+[2024.05.08-21.34.14:955][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.34.14:956][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.34.17:205][501]LogViewport: Scene viewport resized to 1007x639, mode Windowed.
+[2024.05.08-21.34.27:271][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.34.27:720][377]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.34.37:443][267]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.37:443][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.41:658][685]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.41:658][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.42:892][731]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.42:892][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.44:051][807]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.44:051][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.45:383][895]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.45:383][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.51:657][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.05.08-21.34.51:766][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.34.51:804][319]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.34.51:804][319]Cmd: MAP LOAD FILE="../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.08-21.34.51:805][319]LightingResults: New page: Lighting Build
+[2024.05.08-21.34.51:805][319]LoadErrors: New page: Loading map: ScottLevel1ver2.umap
+[2024.05.08-21.34.51:866][319]LogWorld: UWorld::CleanupWorld for KeelanLevel2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.51:866][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.51:866][319]MapCheck: New page: Map Check
+[2024.05.08-21.34.51:866][319]LightingResults: New page: Lighting Build
+[2024.05.08-21.34.51:886][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-21.34.51:895][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.08-21.34.51:900][319]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.34.51:902][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.34.51:926][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.08-21.34.51:947][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.08-21.34.51:989][319]LogAudio: Display: Audio Device (ID: 1) registered with world 'ScottLevel1ver2'.
+[2024.05.08-21.34.51:990][319]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.34.51:990][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.34.51:990][319]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-21.34.52:101][319]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.08-21.34.52:127][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.08-21.34.52:144][319]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.08-21.34.52:144][319]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2024.05.08-21.35.01:780][856]Cmd: DELETE
+[2024.05.08-21.35.01:780][856]Cmd: ACTOR DELETE
+[2024.05.08-21.35.01:831][856]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.08-21.35.01:848][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.08-21.35.01:854][856]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2024.05.08-21.35.02:252][874]Cmd: DELETE
+[2024.05.08-21.35.02:252][874]Cmd: ACTOR DELETE
+[2024.05.08-21.35.02:269][874]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.08-21.35.02:285][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.08-21.35.02:288][874]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.05.08-21.35.02:699][895]Cmd: DELETE
+[2024.05.08-21.35.02:699][895]Cmd: ACTOR DELETE
+[2024.05.08-21.35.02:709][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.08-21.35.02:724][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.08-21.35.02:726][895]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.05.08-21.35.53:179][144]LogContentBrowser: Deferred new asset file creation: ceiling_light_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.35.53:193][144]LogContentBrowser: Creating deferred item: ceiling_light_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.35.53:202][145]LogContentBrowser: Renaming the item being created (Deferred Item: ceiling_light_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.36.01:589][ 54]LogContentBrowser: Attempting asset rename: ceiling_light_DefaultMaterial_BaseColor_Mat -> Celing_Light_MAT
+[2024.05.08-21.36.01:602][ 54]LogContentBrowser: End creating deferred item ceiling_light_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: Total job queries 473, among them cache hits 395 (83.51%)
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: Tracking 78 distinct input hashes that result in 49 distinct outputs (62.82%)
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: RAM used: 1.65 MiB of 819.20 MiB budget. Usage: 0.20%
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-21.36.01:618][ 54]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.36.03:681][230]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/ceiling_light/Celing_Light_MAT.Celing_Light_MAT
+[2024.05.08-21.36.03:685][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.36.03:685][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.36.03:862][230]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.36.03:862][230]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.36.03:862][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.03:862][230]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.36.03:866][230]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.36.03:914][232]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.36.03:914][232]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.36.03:914][232]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.36.03:914][232]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.36.03:914][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.03:914][232]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.36.14:089][280]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.36.14:089][280]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.36.14:089][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.14:089][280]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.36.14:146][282]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.05.08-21.36.14:146][282]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.36.14:146][282]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.36.14:146][282]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.36.14:146][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.14:146][282]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.36.20:759][983]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.36.20:759][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.36.20:759][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.20:759][983]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.36.20:810][985]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.36.20:811][985]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.36.20:811][985]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.08-21.36.20:811][985]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.36.20:811][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.20:811][985]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.36.27:258][633]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.36.27:258][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.36.27:258][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.27:258][633]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.36.27:346][635]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.36.27:346][635]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.36.27:346][635]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.08-21.36.27:346][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.36.27:346][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.27:346][635]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.36.28:365][750]LogMaterialEditor: Applying material Celing_Light_MAT
+[2024.05.08-21.36.28:482][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.08-21.36.28:724][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.08-21.36.28:736][750]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.36.28:736][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.36.28:736][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.28:736][750]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.36.28:747][751]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.36.28:747][751]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.36.28:747][751]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.08-21.36.28:747][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.36.28:747][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.36.28:747][751]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.36.56:432][363]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.36.56:439][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.36.56:439][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.36.57:025][363]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.37.06:203][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.37.06:320][384]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentModels/Eve/ceiling_light
+[2024.05.08-21.37.06:321][384]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ceiling_light2BE67C82437B6842BFB4D99F41FDDB43.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentModels/Eve/ceiling_light.uasset'
+[2024.05.08-21.37.06:331][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 32.8 sec)
+[2024.05.08-21.37.06:332][384]AssetCheck: New page: Asset Save: ceiling_light
+[2024.05.08-21.37.06:332][384]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.37.07:486][509]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.37.07:486][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.37.20:638][723]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ScottStuff/PropModels/boot_wall_light.boot_wall_light
+[2024.05.08-21.37.20:649][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.37.20:649][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.37.21:175][723]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2024.05.08-21.37.31:273][635]LogContentBrowser: Deferred new asset file creation: wall_light_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.37.31:283][635]LogContentBrowser: Creating deferred item: wall_light_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.37.31:294][636]LogContentBrowser: Renaming the item being created (Deferred Item: wall_light_DefaultMaterial_BaseColor_Mat).
+[2024.05.08-21.37.37:532][313]LogContentBrowser: Attempting asset rename: wall_light_DefaultMaterial_BaseColor_Mat -> Wall_Light_MAT
+[2024.05.08-21.37.37:545][313]LogContentBrowser: End creating deferred item wall_light_DefaultMaterial_BaseColor_Mat
+[2024.05.08-21.37.39:425][496]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wall_light/Wall_Light_MAT.Wall_Light_MAT
+[2024.05.08-21.37.39:429][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.37.39:429][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.37.39:616][496]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.37.39:616][496]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.37.39:616][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.37.39:616][496]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.37.39:621][496]LogViewport: Scene viewport resized to 600x483, mode Windowed.
+[2024.05.08-21.37.39:674][498]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.05.08-21.37.39:674][498]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.37.39:674][498]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.08-21.37.39:674][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.08-21.37.39:674][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.37.39:674][498]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.37.43:454][878]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.37.43:454][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.37.43:454][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.37.43:454][878]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.37.43:501][880]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.05.08-21.37.43:502][880]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.37.43:502][880]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.37.43:502][880]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.08-21.37.43:502][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.37.43:502][880]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.37.50:719][629]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.37.50:719][629]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.37.50:719][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.37.50:719][629]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.37.50:769][631]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.37.50:769][631]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.37.50:769][631]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.08-21.37.50:769][631]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.08-21.37.50:769][631]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.37.50:769][631]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.38.00:172][632]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.08-21.38.00:172][632]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.38.00:172][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.38.00:172][632]MaterialEditorStats: Shader Count: 0
+[2024.05.08-21.38.00:257][634]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.38.00:257][634]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.38.00:257][634]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.08-21.38.00:257][634]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.38.00:257][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.38.00:257][634]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.38.01:295][751]LogMaterialEditor: Applying material Wall_Light_MAT
+[2024.05.08-21.38.01:398][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.08-21.38.01:590][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.08-21.38.01:601][751]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.08-21.38.01:602][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.38.01:602][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.38.01:602][751]MaterialEditorStats: Shader Count: 2
+[2024.05.08-21.38.01:611][752]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.38.01:611][752]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.38.01:611][752]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.08-21.38.01:611][752]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.38.01:611][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.38.01:612][752]MaterialEditorStats: Shader Count: 4
+[2024.05.08-21.38.10:969][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.38.11:082][807]LogSavePackage: Moving output files for package: /Game/ScottStuff/PropModels/boot_wall_light
+[2024.05.08-21.38.11:083][807]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/boot_wall_light1513638745954D830D1F9FACABFD00B1.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/PropModels/boot_wall_light.uasset'
+[2024.05.08-21.38.11:098][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 32.9 sec)
+[2024.05.08-21.38.11:100][807]AssetCheck: New page: Asset Save: boot_wall_light
+[2024.05.08-21.38.11:100][807]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ScottStuff/PropModels/boot_wall_light.boot_wall_light
+[2024.05.08-21.38.30:384][924]Cmd: DELETE
+[2024.05.08-21.38.30:385][924]Cmd: ACTOR DELETE
+[2024.05.08-21.38.30:396][924]LogEditorActor: Deleted Actor: PointLight
+[2024.05.08-21.38.30:418][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.08-21.38.30:423][924]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2024.05.08-21.41.04:150][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.08-21.41.04:913][323]LogSlate: Window 'Save Content' being destroyed
+[2024.05.08-21.41.04:944][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.41.05:102][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.08-21.41.05:317][323]LogSavePackage: Moving output files for package: /Game/ScottStuff/ScottLevel1ver2
+[2024.05.08-21.41.05:318][323]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottLevel1ver26FAE1FA4452825FA57968E82E3AC7317.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap'
+[2024.05.08-21.41.05:343][323]LogFileHelpers: Saving map 'ScottLevel1ver2' took 0.325
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: Total job queries 655, among them cache hits 547 (83.51%)
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 62 distinct outputs (57.41%)
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: RAM used: 2.33 MiB of 819.20 MiB budget. Usage: 0.29%
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-21.41.05:403][323]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.41.05:451][323]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/ceiling_light/Celing_Light_MAT
+[2024.05.08-21.41.05:451][323]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Celing_Light_MATFA48613C4D362C099407F58CF06193EB.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/ceiling_light/Celing_Light_MAT.uasset'
+[2024.05.08-21.41.05:484][323]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wall_light/Wall_Light_MAT
+[2024.05.08-21.41.05:484][323]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/Wall_Light_MATA8176A0749E7DACE4198F1B3917C62BD.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wall_light/Wall_Light_MAT.uasset'
+[2024.05.08-21.41.05:494][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 550 ms (total: 33.4 sec)
+[2024.05.08-21.41.05:501][323]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-21.41.05:501][323]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.41.05:501][323]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/ceiling_light/Celing_Light_MAT.Celing_Light_MAT
+[2024.05.08-21.41.05:501][323]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ScottStuff/EnviromentMaterials/EveTextures/08-05-24/wall_light/Wall_Light_MAT.Wall_Light_MAT
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Shader Count: 16
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Texture samplers: 7/16
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.08-21.41.05:502][323]MaterialEditorStats: Shader Count: 16
+[2024.05.08-21.41.21:611][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.41.21:611][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.41.21:613][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_342
+[2024.05.08-21.41.22:626][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.41.22:626][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.41.22:628][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_343
+[2024.05.08-21.41.25:555][490]LogViewport: Scene viewport resized to 912x845, mode Windowed.
+[2024.05.08-21.41.51:126][287]LogViewport: Scene viewport resized to 1271x845, mode Windowed.
+[2024.05.08-21.41.53:791][444]Cmd: DELETE
+[2024.05.08-21.41.53:791][444]Cmd: ACTOR DELETE
+[2024.05.08-21.41.53:802][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.08-21.41.53:828][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.08-21.41.53:834][444]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2024.05.08-21.41.55:250][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.41.55:388][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.08-21.41.55:570][533]LogSavePackage: Moving output files for package: /Game/ScottStuff/ScottLevel1ver2
+[2024.05.08-21.41.55:570][533]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottLevel1ver28142C89245E320E6CF18CBA0A9C4B104.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap'
+[2024.05.08-21.41.55:593][533]LogFileHelpers: Saving map 'ScottLevel1ver2' took 0.283
+[2024.05.08-21.41.55:603][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 352 ms (total: 33.8 sec)
+[2024.05.08-21.41.55:607][533]AssetCheck: New page: Asset Save: ScottLevel1ver2
+[2024.05.08-21.41.55:607][533]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.41.59:051][727]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.08-21.41.59:080][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-21.41.59:080][727]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 23:41:59)
+[2024.05.08-21.41.59:114][727]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.08-21.41.59:116][727]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.08-21.41.59:118][727]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-21.41.59:161][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043387s)
+[2024.05.08-21.41.59:161][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.043605s)
+[2024.05.08-21.41.59:181][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.08-21.41.59:187][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.41.59:188][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.41.59:188][727]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-21.41.59:190][727]LogPlayLevel: PIE: World Init took: (0.005814s)
+[2024.05.08-21.41.59:192][727]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-21.41.59:194][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-21.41.59:194][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-21.41.59:198][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-21.41.59:198][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-21.41.59:198][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-21.41.59:203][727]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-21.41.59:323][727]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-21.41.59:329][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-21.41.59:329][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-21.41.59:329][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-21.41.59:333][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.08-21.41.59:333][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.08-21.41.59:335][727]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.08-21.41.59:335][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.08-21.41.59:335][727]LogAudio: Display: Audio Device (ID: 2) registered with world 'ScottLevel1ver2'.
+[2024.05.08-21.41.59:336][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.08-21.41.59:336][727]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.08-21.41.59:397][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-21.41.59:412][727]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-21.41.59:440][727]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 0) at 2024.05.08-22.41.59
+[2024.05.08-21.41.59:473][727]LogWorld: Bringing up level for play took: 0.059262
+[2024.05.08-21.41.59:476][727]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.05.08-21.41.59:728][727]PIE: Server logged in
+[2024.05.08-21.41.59:730][727]PIE: Play in editor total start time 0.656 seconds.
+[2024.05.08-21.41.59:843][727]LogViewport: Scene viewport resized to 1912x970, mode Windowed.
+[2024.05.08-21.42.16:325][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-21.42.16:325][231]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-21.42.16:326][231]LogSlate: Window 'LaunchTitle_Group_I Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.08-21.42.16:376][231]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.42.16:382][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.42.16:388][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-21.42.16:401][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.42.16:426][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.08-21.42.16:426][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.08-21.42.16:430][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.08-21.42.16:433][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.08-21.42.16:473][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.08-21.42.16:513][232]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.05.08-21.42.17:326][234]LogSlate: Took 0.000847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.08-21.42.33:286][124]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.08-21.42.33:303][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-21.42.33:303][124]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 23:42:33)
+[2024.05.08-21.42.33:304][124]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-21.42.33:344][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039487s)
+[2024.05.08-21.42.33:344][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.039524s)
+[2024.05.08-21.42.33:363][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.08-21.42.33:367][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.42.33:367][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.42.33:368][124]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-21.42.33:369][124]LogPlayLevel: PIE: World Init took: (0.002377s)
+[2024.05.08-21.42.33:369][124]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-21.42.33:369][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-21.42.33:369][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-21.42.33:370][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-21.42.33:370][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-21.42.33:370][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-21.42.33:372][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-21.42.33:491][124]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-21.42.33:491][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-21.42.33:491][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-21.42.33:491][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-21.42.33:492][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.08-21.42.33:492][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.08-21.42.33:494][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.08-21.42.33:494][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.08-21.42.33:494][124]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.08-21.42.33:494][124]LogAudio: Display: Audio Device (ID: 3) registered with world 'ScottLevel1ver2'.
+[2024.05.08-21.42.33:494][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.08-21.42.33:549][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-21.42.33:550][124]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-21.42.33:573][124]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 0) at 2024.05.08-22.42.33
+[2024.05.08-21.42.33:574][124]LogWorld: Bringing up level for play took: 0.024615
+[2024.05.08-21.42.33:578][124]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.05.08-21.42.33:590][124]PIE: Server logged in
+[2024.05.08-21.42.33:591][124]PIE: Play in editor total start time 0.287 seconds.
+[2024.05.08-21.42.33:624][124]LogViewport: Scene viewport resized to 1912x970, mode Windowed.
+[2024.05.08-21.42.41:450][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-21.42.41:450][346]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-21.42.41:451][346]LogSlate: Window 'LaunchTitle_Group_I Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.08-21.42.41:510][346]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.42.41:515][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.42.41:519][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-21.42.41:528][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.42.41:554][346]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.08-21.42.41:554][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.08-21.42.41:556][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.08-21.42.41:575][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.08-21.42.41:638][347]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.08-21.42.46:333][582]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.08-21.43.07:326][731]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.08-21.43.07:344][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.08-21.43.07:344][731]PIE: New page: PIE session: ScottLevel1ver2 (8 May 2024, 23:43:07)
+[2024.05.08-21.43.07:344][731]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-21.43.07:382][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037972s)
+[2024.05.08-21.43.07:382][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.038014s)
+[2024.05.08-21.43.07:399][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.08-21.43.07:402][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.08-21.43.07:403][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.08-21.43.07:403][731]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.08-21.43.07:404][731]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2024.05.08-21.43.07:404][731]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.08-21.43.07:404][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.08-21.43.07:404][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.08-21.43.07:404][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.08-21.43.07:404][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.08-21.43.07:404][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.08-21.43.07:407][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.08-21.43.07:527][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.08-21.43.07:527][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.08-21.43.07:527][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.08-21.43.07:527][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.08-21.43.07:528][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.08-21.43.07:528][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.08-21.43.07:530][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.08-21.43.07:530][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.08-21.43.07:530][731]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.08-21.43.07:530][731]LogAudio: Display: Audio Device (ID: 4) registered with world 'ScottLevel1ver2'.
+[2024.05.08-21.43.07:530][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.08-21.43.07:580][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-21.43.07:580][731]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.08-21.43.07:605][731]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 0) at 2024.05.08-22.43.07
+[2024.05.08-21.43.07:606][731]LogWorld: Bringing up level for play took: 0.026781
+[2024.05.08-21.43.07:610][731]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.08-21.43.07:623][731]PIE: Server logged in
+[2024.05.08-21.43.07:624][731]PIE: Play in editor total start time 0.281 seconds.
+[2024.05.08-21.43.07:666][731]LogViewport: Scene viewport resized to 1912x970, mode Windowed.
+[2024.05.08-21.44.11:410][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.08-21.44.11:410][882]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.08-21.44.11:411][882]LogSlate: Window 'LaunchTitle_Group_I Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.08-21.44.11:438][882]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.11:442][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.11:446][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.08-21.44.11:454][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.11:482][882]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.08-21.44.11:482][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.08-21.44.11:485][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.08-21.44.11:505][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.08-21.44.11:568][883]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.08-21.44.13:180][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.08-21.44.13:991][940]LogSlate: Window 'Save Content' being destroyed
+[2024.05.08-21.44.14:001][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-21.44.14:162][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.08-21.44.14:339][940]LogSavePackage: Moving output files for package: /Game/ScottStuff/ScottLevel1ver2
+[2024.05.08-21.44.14:340][940]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottLevel1ver2CCC712294898449D0D10C99DB5F378DB.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap'
+[2024.05.08-21.44.14:364][940]LogFileHelpers: Saving map 'ScottLevel1ver2' took 0.284
+[2024.05.08-21.44.14:429][940]LogSavePackage: Moving output files for package: /Game/ScottStuff/EnviromentModels/Eve/ceiling_light
+[2024.05.08-21.44.14:430][940]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ceiling_light2EABB5514EAA11B645FE75954F43B7AB.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/EnviromentModels/Eve/ceiling_light.uasset'
+[2024.05.08-21.44.14:460][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 459 ms (total: 34.3 sec)
+[2024.05.08-21.44.14:465][940]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-21.44.14:465][940]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.08-21.44.14:465][940]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ScottStuff/EnviromentModels/Eve/ceiling_light.ceiling_light
+[2024.05.08-21.44.19:755][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.08-21.44.19:759][ 22]LogStall: Shutdown...
+[2024.05.08-21.44.19:771][ 22]LogStall: Shutdown complete.
+[2024.05.08-21.44.19:859][ 22]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.19:859][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.19:946][ 22]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.19:946][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:033][ 22]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.20:033][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:129][ 22]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.20:130][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:208][ 22]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.08-21.44.20:208][ 22]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.20:208][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:294][ 22]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.08-21.44.20:294][ 22]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.20:294][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:378][ 22]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.20:378][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:474][ 22]LogSlate: Window 'LaunchTitle_Group_I - Unreal Editor' being destroyed
+[2024.05.08-21.44.20:695][ 23]Cmd: QUIT_EDITOR
+[2024.05.08-21.44.20:696][ 23]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.08-21.44.20:709][ 23]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.08-21.44.20:710][ 23]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.08-21.44.20:710][ 23]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.08-21.44.20:724][ 23]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.20:725][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.08-21.44.20:769][ 23]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.08-21.44.21:892][ 23]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.08-21.44.21:892][ 23]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.08-21.44.21:892][ 23]LogAudio: Display: Audio Device unregistered from world 'ScottLevel1ver2'.
+[2024.05.08-21.44.21:892][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.08-21.44.21:893][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.08-21.44.21:898][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.08-21.44.21:969][ 23]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.08-21.44.21:971][ 23]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.08-21.44.21:986][ 23]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.08-21.44.21:987][ 23]LogExit: Preparing to exit.
+[2024.05.08-21.44.22:050][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.08-21.44.22:082][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:083][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:089][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.22:091][ 23]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.08-21.44.23:100][ 23]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:103][ 23]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:105][ 23]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:107][ 23]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:109][ 23]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:110][ 23]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:112][ 23]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:113][ 23]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.08-21.44.23:485][ 23]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.08-21.44.23:738][ 23]LogExit: Editor shut down
+[2024.05.08-21.44.23:764][ 23]LogExit: Transaction tracking system shut down
+[2024.05.08-21.44.25:746][ 23]LogExit: Object subsystem successfully closed.
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: Total job queries 665, among them cache hits 557 (83.76%)
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 62 distinct outputs (57.41%)
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: RAM used: 2.33 MiB of 819.20 MiB budget. Usage: 0.29%
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.08-21.44.25:755][ 23]LogShaderCompilers: Display: ================================================
+[2024.05.08-21.44.25:811][ 23]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.08-21.44.26:125][ 23]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.08-21.44.26:321][ 23]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1056)
+[2024.05.08-21.44.26:321][ 23]LogModuleManager: Shutting down and abandoning module Voice (1054)
+[2024.05.08-21.44.26:321][ 23]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1052)
+[2024.05.08-21.44.26:321][ 23]LogModuleManager: Shutting down and abandoning module MaterialEditor (1050)
+[2024.05.08-21.44.26:322][ 23]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1048)
+[2024.05.08-21.44.26:322][ 23]LogModuleManager: Shutting down and abandoning module AddContentDialog (1046)
+[2024.05.08-21.44.26:331][ 23]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1045)
+[2024.05.08-21.44.26:331][ 23]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1042)
+[2024.05.08-21.44.26:331][ 23]LogModuleManager: Shutting down and abandoning module SceneOutliner (1040)
+[2024.05.08-21.44.26:331][ 23]LogModuleManager: Shutting down and abandoning module StatusBar (1038)
+[2024.05.08-21.44.26:331][ 23]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1036)
+[2024.05.08-21.44.26:331][ 23]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1034)
+[2024.05.08-21.44.26:333][ 23]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.05.08-21.44.26:333][ 23]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.05.08-21.44.26:333][ 23]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.05.08-21.44.26:334][ 23]LogModuleManager: Shutting down and abandoning module SmartSnapping (1026)
+[2024.05.08-21.44.26:335][ 23]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1024)
+[2024.05.08-21.44.26:340][ 23]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1022)
+[2024.05.08-21.44.26:345][ 23]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1020)
+[2024.05.08-21.44.26:346][ 23]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1018)
+[2024.05.08-21.44.26:348][ 23]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1016)
+[2024.05.08-21.44.26:350][ 23]LogModuleManager: Shutting down and abandoning module RigVMEditor (1014)
+[2024.05.08-21.44.26:353][ 23]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1012)
+[2024.05.08-21.44.26:353][ 23]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1010)
+[2024.05.08-21.44.26:353][ 23]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1008)
+[2024.05.08-21.44.26:353][ 23]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1006)
+[2024.05.08-21.44.26:353][ 23]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1004)
+[2024.05.08-21.44.26:353][ 23]LogModuleManager: Shutting down and abandoning module BspMode (1002)
+[2024.05.08-21.44.26:354][ 23]LogModuleManager: Shutting down and abandoning module GeometryMode (1000)
+[2024.05.08-21.44.26:355][ 23]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (998)
+[2024.05.08-21.44.26:355][ 23]LogModuleManager: Shutting down and abandoning module PlanarCut (996)
+[2024.05.08-21.44.26:355][ 23]LogModuleManager: Shutting down and abandoning module FractureEngine (994)
+[2024.05.08-21.44.26:356][ 23]LogModuleManager: Shutting down and abandoning module CharacterAI (992)
+[2024.05.08-21.44.26:356][ 23]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (990)
+[2024.05.08-21.44.26:357][ 23]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (988)
+[2024.05.08-21.44.26:357][ 23]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (986)
+[2024.05.08-21.44.26:357][ 23]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (984)
+[2024.05.08-21.44.26:358][ 23]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (982)
+[2024.05.08-21.44.26:358][ 23]LogModuleManager: Shutting down and abandoning module WebMMedia (980)
+[2024.05.08-21.44.26:358][ 23]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (978)
+[2024.05.08-21.44.26:360][ 23]LogModuleManager: Shutting down and abandoning module SequenceRecorder (977)
+[2024.05.08-21.44.26:361][ 23]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (974)
+[2024.05.08-21.44.26:361][ 23]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (972)
+[2024.05.08-21.44.26:361][ 23]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (970)
+[2024.05.08-21.44.26:362][ 23]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (968)
+[2024.05.08-21.44.26:362][ 23]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (966)
+[2024.05.08-21.44.26:362][ 23]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (964)
+[2024.05.08-21.44.26:362][ 23]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (962)
+[2024.05.08-21.44.26:362][ 23]LogModuleManager: Shutting down and abandoning module IKRigEditor (960)
+[2024.05.08-21.44.26:365][ 23]LogModuleManager: Shutting down and abandoning module ControlRigEditor (958)
+[2024.05.08-21.44.26:366][ 23]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.05.08-21.44.26:368][ 23]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.05.08-21.44.26:369][ 23]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.05.08-21.44.26:370][ 23]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.05.08-21.44.26:371][ 23]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.05.08-21.44.26:372][ 23]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.05.08-21.44.26:377][ 23]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.05.08-21.44.26:377][ 23]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.05.08-21.44.26:377][ 23]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.05.08-21.44.26:377][ 23]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.05.08-21.44.26:378][ 23]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.05.08-21.44.26:378][ 23]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.05.08-21.44.26:380][ 23]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.05.08-21.44.26:382][ 23]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.05.08-21.44.26:382][ 23]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.05.08-21.44.26:383][ 23]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.05.08-21.44.26:384][ 23]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.05.08-21.44.26:384][ 23]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.05.08-21.44.26:385][ 23]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.05.08-21.44.26:911][ 23]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.05.08-21.44.26:913][ 23]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.05.08-21.44.26:913][ 23]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.05.08-21.44.26:913][ 23]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.05.08-21.44.26:913][ 23]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.05.08-21.44.26:913][ 23]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.05.08-21.44.26:914][ 23]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.05.08-21.44.26:921][ 23]MemoryProfiler: Shutdown
+[2024.05.08-21.44.26:922][ 23]NetworkingProfiler: Shutdown
+[2024.05.08-21.44.26:922][ 23]LoadingProfiler: Shutdown
+[2024.05.08-21.44.26:923][ 23]TimingProfiler: Shutdown
+[2024.05.08-21.44.26:926][ 23]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.05.08-21.44.26:928][ 23]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.05.08-21.44.26:928][ 23]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.05.08-21.44.26:928][ 23]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.05.08-21.44.26:928][ 23]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.05.08-21.44.26:928][ 23]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.05.08-21.44.26:930][ 23]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.05.08-21.44.26:930][ 23]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.05.08-21.44.26:930][ 23]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.05.08-21.44.26:930][ 23]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.05.08-21.44.26:931][ 23]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.05.08-21.44.26:931][ 23]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.05.08-21.44.26:931][ 23]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.05.08-21.44.26:931][ 23]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.05.08-21.44.26:931][ 23]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.05.08-21.44.26:932][ 23]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.05.08-21.44.26:932][ 23]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.05.08-21.44.26:932][ 23]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.05.08-21.44.26:933][ 23]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.05.08-21.44.26:933][ 23]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.05.08-21.44.26:934][ 23]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.05.08-21.44.26:934][ 23]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.05.08-21.44.26:935][ 23]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.05.08-21.44.26:936][ 23]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.05.08-21.44.26:939][ 23]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.05.08-21.44.26:940][ 23]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.05.08-21.44.26:940][ 23]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.05.08-21.44.26:941][ 23]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.05.08-21.44.26:941][ 23]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.05.08-21.44.26:942][ 23]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.05.08-21.44.26:944][ 23]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.05.08-21.44.26:944][ 23]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.05.08-21.44.26:954][ 23]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.05.08-21.44.26:955][ 23]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.05.08-21.44.26:957][ 23]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.05.08-21.44.26:957][ 23]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.05.08-21.44.26:957][ 23]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.05.08-21.44.26:959][ 23]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.05.08-21.44.26:960][ 23]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.05.08-21.44.26:960][ 23]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.05.08-21.44.26:960][ 23]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.05.08-21.44.26:960][ 23]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.05.08-21.44.27:074][ 23]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.05.08-21.44.27:076][ 23]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (762)
+[2024.05.08-21.44.27:076][ 23]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (760)
+[2024.05.08-21.44.27:076][ 23]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (758)
+[2024.05.08-21.44.27:078][ 23]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (756)
+[2024.05.08-21.44.27:079][ 23]LogModuleManager: Shutting down and abandoning module TakesCore (754)
+[2024.05.08-21.44.27:079][ 23]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.05.08-21.44.27:080][ 23]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.05.08-21.44.27:080][ 23]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (748)
+[2024.05.08-21.44.27:080][ 23]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2024.05.08-21.44.27:080][ 23]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (744)
+[2024.05.08-21.44.27:080][ 23]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2024.05.08-21.44.27:081][ 23]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (740)
+[2024.05.08-21.44.27:082][ 23]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (738)
+[2024.05.08-21.44.27:084][ 23]LogModuleManager: Shutting down and abandoning module LightMixer (736)
+[2024.05.08-21.44.27:084][ 23]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (734)
+[2024.05.08-21.44.27:084][ 23]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (732)
+[2024.05.08-21.44.27:084][ 23]LogModuleManager: Shutting down and abandoning module Paper2DEditor (730)
+[2024.05.08-21.44.27:085][ 23]LogModuleManager: Shutting down and abandoning module AlembicImporter (728)
+[2024.05.08-21.44.27:086][ 23]LogModuleManager: Shutting down and abandoning module AlembicLibrary (727)
+[2024.05.08-21.44.27:086][ 23]LogModuleManager: Shutting down and abandoning module VariantManager (724)
+[2024.05.08-21.44.27:090][ 23]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (723)
+[2024.05.08-21.44.27:090][ 23]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (720)
+[2024.05.08-21.44.27:092][ 23]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (718)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module TemplateSequence (716)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (714)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module SequencerScripting (712)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module SynthesisEditor (710)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module ResonanceAudio (708)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (706)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (704)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module AssetTags (702)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (700)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module ModelingOperators (698)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (696)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module ModelingComponents (694)
+[2024.05.08-21.44.27:096][ 23]LogModuleManager: Shutting down and abandoning module GeometryFramework (693)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (690)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module MeshModelingTools (688)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (686)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module InputDebugging (684)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module GooglePAD (682)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (680)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module GeometryCache (678)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (676)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (674)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (672)
+[2024.05.08-21.44.27:097][ 23]LogModuleManager: Shutting down and abandoning module DynamicMesh (670)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (668)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module AudioCapture (666)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (665)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (662)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (660)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module AppleImageUtils (658)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module AndroidPermission (656)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (654)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (652)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (650)
+[2024.05.08-21.44.27:098][ 23]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (648)
+[2024.05.08-21.44.27:099][ 23]LogModuleManager: Shutting down and abandoning module UVEditorTools (646)
+[2024.05.08-21.44.27:099][ 23]LogModuleManager: Shutting down and abandoning module UVEditor (644)
+[2024.05.08-21.44.27:100][ 23]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (642)
+[2024.05.08-21.44.27:100][ 23]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (640)
+[2024.05.08-21.44.27:100][ 23]LogModuleManager: Shutting down and abandoning module PluginBrowser (638)
+[2024.05.08-21.44.27:102][ 23]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (636)
+[2024.05.08-21.44.27:105][ 23]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (634)
+[2024.05.08-21.44.27:106][ 23]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (632)
+[2024.05.08-21.44.27:106][ 23]LogModuleManager: Shutting down and abandoning module CurveEditorTools (630)
+[2024.05.08-21.44.27:107][ 23]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (628)
+[2024.05.08-21.44.27:107][ 23]LogModuleManager: Shutting down and abandoning module EditorDebugTools (626)
+[2024.05.08-21.44.27:108][ 23]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (624)
+[2024.05.08-21.44.27:108][ 23]LogModuleManager: Shutting down and abandoning module CryptoKeys (622)
+[2024.05.08-21.44.27:108][ 23]LogModuleManager: Shutting down and abandoning module ChangelistReview (620)
+[2024.05.08-21.44.27:109][ 23]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (618)
+[2024.05.08-21.44.27:110][ 23]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (616)
+[2024.05.08-21.44.27:110][ 23]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (614)
+[2024.05.08-21.44.27:110][ 23]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (612)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module InterchangeExport (610)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module InterchangeMessages (608)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module GLTFCore (606)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (604)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (602)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module InterchangeEditor (600)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (596)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module TakeSequencer (594)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module TakeMovieScene (592)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (590)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (588)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module UObjectPlugin (586)
+[2024.05.08-21.44.27:111][ 23]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (584)
+[2024.05.08-21.44.27:112][ 23]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (582)
+[2024.05.08-21.44.27:112][ 23]LogModuleManager: Shutting down and abandoning module PluginUtils (580)
+[2024.05.08-21.44.27:112][ 23]LogModuleManager: Shutting down and abandoning module GitSourceControl (578)
+[2024.05.08-21.44.27:114][ 23]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (576)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (574)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module DumpGPUServices (572)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (570)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (568)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (566)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (564)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (562)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (560)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (558)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (556)
+[2024.05.08-21.44.27:115][ 23]LogOpenImageDenoise: OIDN shutting down
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (554)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (552)
+[2024.05.08-21.44.27:115][ 23]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (550)
+[2024.05.08-21.44.27:117][ 23]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (548)
+[2024.05.08-21.44.27:117][ 23]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (546)
+[2024.05.08-21.44.27:117][ 23]LogModuleManager: Shutting down and abandoning module MeshLODToolset (544)
+[2024.05.08-21.44.27:117][ 23]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (542)
+[2024.05.08-21.44.27:117][ 23]LogModuleManager: Shutting down and abandoning module LocalizableMessage (540)
+[2024.05.08-21.44.27:117][ 23]LogModuleManager: Shutting down and abandoning module ChaosNiagara (538)
+[2024.05.08-21.44.27:118][ 23]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (536)
+[2024.05.08-21.44.27:118][ 23]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (534)
+[2024.05.08-21.44.27:118][ 23]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (532)
+[2024.05.08-21.44.27:118][ 23]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (530)
+[2024.05.08-21.44.27:119][ 23]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (528)
+[2024.05.08-21.44.27:119][ 23]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (527)
+[2024.05.08-21.44.27:119][ 23]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module DataflowNodes (520)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (518)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module DataflowEditor (516)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (512)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (510)
+[2024.05.08-21.44.27:120][ 23]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2024.05.08-21.44.27:123][ 23]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (506)
+[2024.05.08-21.44.27:123][ 23]LogModuleManager: Shutting down and abandoning module AutomationUtils (504)
+[2024.05.08-21.44.27:123][ 23]LogModuleManager: Shutting down and abandoning module BackChannel (502)
+[2024.05.08-21.44.27:123][ 23]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (500)
+[2024.05.08-21.44.27:124][ 23]LogModuleManager: Shutting down and abandoning module InterchangeTests (498)
+[2024.05.08-21.44.27:124][ 23]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (496)
+[2024.05.08-21.44.27:125][ 23]LogModuleManager: Shutting down and abandoning module MediaPlate (494)
+[2024.05.08-21.44.27:125][ 23]LogModuleManager: Shutting down and abandoning module MediaCompositing (492)
+[2024.05.08-21.44.27:125][ 23]LogModuleManager: Shutting down and abandoning module ImgMedia (490)
+[2024.05.08-21.44.27:125][ 23]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (488)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (486)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (484)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module ControlRigSpline (482)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.05.08-21.44.27:126][ 23]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.05.08-21.44.27:127][ 23]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.05.08-21.44.27:127][ 23]LogModuleManager: Shutting down and abandoning module Paper2D (470)
+[2024.05.08-21.44.27:128][ 23]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (468)
+[2024.05.08-21.44.27:128][ 23]LogModuleManager: Shutting down and abandoning module Niagara (466)
+[2024.05.08-21.44.27:129][ 23]LogModuleManager: Shutting down and abandoning module NiagaraEditor (465)
+[2024.05.08-21.44.27:130][ 23]LogModuleManager: Shutting down and abandoning module NiagaraCore (462)
+[2024.05.08-21.44.27:130][ 23]LogModuleManager: Shutting down and abandoning module ActorSequence (460)
+[2024.05.08-21.44.27:130][ 23]LogModuleManager: Shutting down and abandoning module GameplayCameras (458)
+[2024.05.08-21.44.27:130][ 23]LogModuleManager: Shutting down and abandoning module Synthesis (456)
+[2024.05.08-21.44.27:131][ 23]LogModuleManager: Shutting down and abandoning module SignificanceManager (454)
+[2024.05.08-21.44.27:131][ 23]LogModuleManager: Shutting down and abandoning module SoundFields (452)
+[2024.05.08-21.44.27:131][ 23]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (450)
+[2024.05.08-21.44.27:131][ 23]LogModuleManager: Shutting down and abandoning module RigVM (448)
+[2024.05.08-21.44.27:131][ 23]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (446)
+[2024.05.08-21.44.27:132][ 23]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (444)
+[2024.05.08-21.44.27:132][ 23]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (442)
+[2024.05.08-21.44.27:132][ 23]LogModuleManager: Shutting down and abandoning module MetasoundEditor (440)
+[2024.05.08-21.44.27:134][ 23]LogModuleManager: Shutting down and abandoning module AudioWidgets (439)
+[2024.05.08-21.44.27:134][ 23]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (438)
+[2024.05.08-21.44.27:136][ 23]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (434)
+[2024.05.08-21.44.27:137][ 23]LogModuleManager: Shutting down and abandoning module MetasoundEngine (432)
+[2024.05.08-21.44.27:137][ 23]LogModuleManager: Shutting down and abandoning module WaveTable (431)
+[2024.05.08-21.44.27:137][ 23]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (429)
+[2024.05.08-21.44.27:137][ 23]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (426)
+[2024.05.08-21.44.27:138][ 23]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (424)
+[2024.05.08-21.44.27:142][ 23]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (422)
+[2024.05.08-21.44.27:143][ 23]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (420)
+[2024.05.08-21.44.27:143][ 23]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (418)
+[2024.05.08-21.44.27:143][ 23]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (416)
+[2024.05.08-21.44.27:143][ 23]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2024.05.08-21.44.27:143][ 23]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (412)
+[2024.05.08-21.44.27:144][ 23]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (411)
+[2024.05.08-21.44.27:144][ 23]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (408)
+[2024.05.08-21.44.27:144][ 23]LogModuleManager: Shutting down and abandoning module SignalProcessing (407)
+[2024.05.08-21.44.27:144][ 23]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (404)
+[2024.05.08-21.44.27:145][ 23]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (402)
+[2024.05.08-21.44.27:145][ 23]LogModuleManager: Shutting down and abandoning module FacialAnimation (400)
+[2024.05.08-21.44.27:145][ 23]LogModuleManager: Shutting down and abandoning module DataValidation (398)
+[2024.05.08-21.44.27:145][ 23]LogModuleManager: Shutting down and abandoning module InterchangePipelines (396)
+[2024.05.08-21.44.27:145][ 23]LogModuleManager: Shutting down and abandoning module InterchangeImport (394)
+[2024.05.08-21.44.27:146][ 23]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (392)
+[2024.05.08-21.44.27:146][ 23]LogModuleManager: Shutting down and abandoning module InterchangeNodes (390)
+[2024.05.08-21.44.27:146][ 23]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (388)
+[2024.05.08-21.44.27:147][ 23]LogModuleManager: Shutting down and abandoning module ContentBrowser (387)
+[2024.05.08-21.44.27:147][ 23]LogModuleManager: Shutting down and abandoning module ToolMenus (386)
+[2024.05.08-21.44.27:147][ 23]LogModuleManager: Shutting down and abandoning module ContentBrowserData (384)
+[2024.05.08-21.44.27:147][ 23]LogModuleManager: Shutting down and abandoning module TreeMap (381)
+[2024.05.08-21.44.27:148][ 23]LogModuleManager: Shutting down and abandoning module UdpMessaging (378)
+[2024.05.08-21.44.27:250][ 23]LogModuleManager: Shutting down and abandoning module TcpMessaging (376)
+[2024.05.08-21.44.27:351][ 23]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (374)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (372)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module AnimationSharing (370)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module StructUtils (368)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (366)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module PBIK (364)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module FullBodyIK (362)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (360)
+[2024.05.08-21.44.27:354][ 23]LogModuleManager: Shutting down and abandoning module TakeRecorder (359)
+[2024.05.08-21.44.27:356][ 23]LogModuleManager: Shutting down and abandoning module LevelEditor (357)
+[2024.05.08-21.44.27:365][ 23]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (356)
+[2024.05.08-21.44.27:365][ 23]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (354)
+[2024.05.08-21.44.27:366][ 23]LogModuleManager: Shutting down and abandoning module MainFrame (352)
+[2024.05.08-21.44.27:366][ 23]LogModuleManager: Shutting down and abandoning module HotReload (351)
+[2024.05.08-21.44.27:367][ 23]LogModuleManager: Shutting down and abandoning module ChaosCaching (346)
+[2024.05.08-21.44.27:367][ 23]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (344)
+[2024.05.08-21.44.27:368][ 23]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (342)
+[2024.05.08-21.44.27:368][ 23]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (340)
+[2024.05.08-21.44.27:368][ 23]LogModuleManager: Shutting down and abandoning module IKRig (338)
+[2024.05.08-21.44.27:368][ 23]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (336)
+[2024.05.08-21.44.27:368][ 23]LogModuleManager: Shutting down and abandoning module ControlRig (334)
+[2024.05.08-21.44.27:368][ 23]LogModuleManager: Shutting down and abandoning module Constraints (333)
+[2024.05.08-21.44.27:369][ 23]LogModuleManager: Shutting down and abandoning module LevelSequence (331)
+[2024.05.08-21.44.27:369][ 23]LogModuleManager: Shutting down and abandoning module AnimationData (328)
+[2024.05.08-21.44.27:369][ 23]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.05.08-21.44.27:369][ 23]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.05.08-21.44.27:369][ 23]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.05.08-21.44.27:369][ 23]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.05.08-21.44.27:677][ 23]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.05.08-21.44.27:678][ 23]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.05.08-21.44.27:678][ 23]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.05.08-21.44.27:678][ 23]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.05.08-21.44.27:678][ 23]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.05.08-21.44.27:680][ 23]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.05.08-21.44.27:681][ 23]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.05.08-21.44.27:682][ 23]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.05.08-21.44.27:683][ 23]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.05.08-21.44.27:683][ 23]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.05.08-21.44.27:685][ 23]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.05.08-21.44.27:685][ 23]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.05.08-21.44.27:687][ 23]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.05.08-21.44.27:690][ 23]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.05.08-21.44.27:690][ 23]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.05.08-21.44.27:690][ 23]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.05.08-21.44.27:693][ 23]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.05.08-21.44.27:693][ 23]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.05.08-21.44.27:698][ 23]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.05.08-21.44.27:698][ 23]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.05.08-21.44.27:700][ 23]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.05.08-21.44.27:716][ 23]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.05.08-21.44.27:716][ 23]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.05.08-21.44.27:716][ 23]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.05.08-21.44.27:716][ 23]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.05.08-21.44.27:721][ 23]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.05.08-21.44.27:723][ 23]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.05.08-21.44.27:726][ 23]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.05.08-21.44.27:726][ 23]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.05.08-21.44.27:727][ 23]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.05.08-21.44.27:727][ 23]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.05.08-21.44.27:727][ 23]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.05.08-21.44.27:728][ 23]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.05.08-21.44.27:728][ 23]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.05.08-21.44.27:728][ 23]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.05.08-21.44.27:728][ 23]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.05.08-21.44.27:729][ 23]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.05.08-21.44.27:729][ 23]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.05.08-21.44.27:734][ 23]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.05.08-21.44.27:735][ 23]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.05.08-21.44.27:736][ 23]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.05.08-21.44.27:748][ 23]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.05.08-21.44.27:748][ 23]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.05.08-21.44.27:748][ 23]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.05.08-21.44.27:748][ 23]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.05.08-21.44.27:794][ 23]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.05.08-21.44.27:795][ 23]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.05.08-21.44.27:795][ 23]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.05.08-21.44.27:798][ 23]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.05.08-21.44.27:798][ 23]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.05.08-21.44.27:798][ 23]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.05.08-21.44.27:799][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.05.08-21.44.27:799][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.05.08-21.44.27:799][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.05.08-21.44.27:799][ 23]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.05.08-21.44.27:799][ 23]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.05.08-21.44.27:799][ 23]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.05.08-21.44.27:800][ 23]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.05.08-21.44.27:800][ 23]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.05.08-21.44.27:801][ 23]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.05.08-21.44.27:801][ 23]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.05.08-21.44.27:801][ 23]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.05.08-21.44.27:802][ 23]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.05.08-21.44.27:802][ 23]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.05.08-21.44.27:802][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.05.08-21.44.27:807][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.05.08-21.44.27:808][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.05.08-21.44.27:808][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.05.08-21.44.27:808][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.05.08-21.44.27:808][ 23]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.05.08-21.44.27:808][ 23]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.05.08-21.44.27:809][ 23]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.05.08-21.44.27:809][ 23]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.05.08-21.44.27:809][ 23]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.05.08-21.44.27:811][ 23]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.05.08-21.44.27:811][ 23]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.05.08-21.44.27:811][ 23]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.05.08-21.44.27:811][ 23]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.05.08-21.44.27:811][ 23]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (122)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module GLTFExporter (118)
+[2024.05.08-21.44.27:812][ 23]LogModuleManager: Shutting down and abandoning module DatasmithContent (116)
+[2024.05.08-21.44.27:813][ 23]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (114)
+[2024.05.08-21.44.27:813][ 23]LogModuleManager: Shutting down and abandoning module NiagaraShader (112)
+[2024.05.08-21.44.27:814][ 23]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (110)
+[2024.05.08-21.44.27:814][ 23]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (108)
+[2024.05.08-21.44.27:814][ 23]LogModuleManager: Shutting down and abandoning module ChunkDownloader (106)
+[2024.05.08-21.44.27:814][ 23]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (104)
+[2024.05.08-21.44.27:814][ 23]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (102)
+[2024.05.08-21.44.27:815][ 23]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (100)
+[2024.05.08-21.44.27:819][ 23]LogModuleManager: Shutting down and abandoning module XMPP (95)
+[2024.05.08-21.44.27:820][ 23]LogModuleManager: Shutting down and abandoning module WebSockets (94)
+[2024.05.08-21.44.27:849][ 23]LogModuleManager: Shutting down and abandoning module HTTP (91)
+[2024.05.08-21.44.27:849][ 23]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.08-21.44.27:849][ 23]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6342D2DD-4DF5-B13B-F13E-79BBDD2F94F4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c740174b4ccf68f8a28813a962cb3a61%7C5b408bd725484b859ba3499825e09a4c%7Cd2c20f19-c513-4157-be94-ab4ffe251e30&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.05.08-21.44.27:865][ 23]LogModuleManager: Shutting down and abandoning module SSL (90)
+[2024.05.08-21.44.27:877][ 23]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (86)
+[2024.05.08-21.44.27:878][ 23]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (84)
+[2024.05.08-21.44.27:878][ 23]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (82)
+[2024.05.08-21.44.27:878][ 23]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (80)
+[2024.05.08-21.44.27:879][ 23]RenderDocPlugin: plugin has been unloaded.
+[2024.05.08-21.44.27:879][ 23]LogModuleManager: Shutting down and abandoning module PixWinPlugin (78)
+[2024.05.08-21.44.27:879][ 23]LogModuleManager: Shutting down and abandoning module ChaosCloth (76)
+[2024.05.08-21.44.27:879][ 23]LogModuleManager: Shutting down and abandoning module AISupportModule (74)
+[2024.05.08-21.44.27:879][ 23]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.05.08-21.44.27:884][ 23]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.05.08-21.44.27:886][ 23]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2024.05.08-21.44.27:886][ 23]LogModuleManager: Shutting down and abandoning module ACLPlugin (66)
+[2024.05.08-21.44.27:887][ 23]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.05.08-21.44.27:888][ 23]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.05.08-21.44.27:889][ 23]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.05.08-21.44.27:892][ 23]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.05.08-21.44.27:893][ 23]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.05.08-21.44.27:893][ 23]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.05.08-21.44.27:893][ 23]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.05.08-21.44.27:893][ 23]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.05.08-21.44.27:893][ 23]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.05.08-21.44.27:894][ 23]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.05.08-21.44.27:895][ 23]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.05.08-21.44.27:895][ 23]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.05.08-21.44.27:897][ 23]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.05.08-21.44.27:900][ 23]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.05.08-21.44.27:902][ 23]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.05.08-21.44.27:902][ 23]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.05.08-21.44.27:902][ 23]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.05.08-21.44.27:902][ 23]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.05.08-21.44.27:903][ 23]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.05.08-21.44.27:903][ 23]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.05.08-21.44.27:903][ 23]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.05.08-21.44.27:907][ 23]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.05.08-21.44.27:907][ 23]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.05.08-21.44.27:908][ 23]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.05.08-21.44.27:908][ 23]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.05.08-21.44.27:908][ 23]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.05.08-21.44.27:908][ 23]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.05.08-21.44.27:909][ 23]LogPakFile: Destroying PakPlatformFile
+[2024.05.08-21.44.27:909][ 23]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.05.08-21.44.27:909][ 23]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.05.08-21.44.27:910][ 23]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.05.08-21.44.27:910][ 23]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.05.08-21.44.27:910][ 23]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.08-21.44.28:618][ 23]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.08-21.44.28:693][ 23]LogExit: Exiting.
+[2024.05.08-21.44.28:766][ 23]Log file closed, 05/08/24 22:44:28

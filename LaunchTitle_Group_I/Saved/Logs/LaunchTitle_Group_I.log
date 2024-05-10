@@ -2943,3 +2943,450 @@ Script Stack (0 frames) :
 [2024.05.10-20.10.44:450][ 87]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
 [2024.05.10-20.11.32:739][785]Cmd: TRANSACTION UNDO
 [2024.05.10-20.11.32:739][785]LogEditorTransaction: Undo Replace component used material
+[2024.05.10-20.12.41:388][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.05.10-20.12.41:388][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.05.10-20.12.41:391][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.DirectionalLight_1
+[2024.05.10-20.12.41:392][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.DirectionalLight_1
+[2024.05.10-20.13.04:807][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003
+[2024.05.10-20.13.04:807][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003
+[2024.05.10-20.13.04:808][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_988
+[2024.05.10-20.13.04:808][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HBT.Rat_room__4__HBT
+[2024.05.10-20.13.04:808][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HBT.Rat_room__4__HBT
+[2024.05.10-20.13.04:809][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HBT.Rat_room__4__HBT as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_989
+[2024.05.10-20.13.04:809][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HDB.Rat_room__4__HDB
+[2024.05.10-20.13.04:809][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HDB.Rat_room__4__HDB
+[2024.05.10-20.13.04:810][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HDB.Rat_room__4__HDB as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_990
+[2024.05.10-20.13.04:810][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF1.Rat_room__4__HF1
+[2024.05.10-20.13.04:810][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF1.Rat_room__4__HF1
+[2024.05.10-20.13.04:811][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF1.Rat_room__4__HF1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_991
+[2024.05.10-20.13.04:811][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF2.Rat_room__4__HF2
+[2024.05.10-20.13.04:811][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF2.Rat_room__4__HF2
+[2024.05.10-20.13.04:812][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF2.Rat_room__4__HF2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_992
+[2024.05.10-20.13.04:812][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_1.Rat_room__4__HG_1
+[2024.05.10-20.13.04:812][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_1.Rat_room__4__HG_1
+[2024.05.10-20.13.04:813][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_1.Rat_room__4__HG_1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_993
+[2024.05.10-20.13.04:813][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_2.Rat_room__4__HG_2
+[2024.05.10-20.13.04:813][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_2.Rat_room__4__HG_2
+[2024.05.10-20.13.04:815][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_2.Rat_room__4__HG_2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_994
+[2024.05.10-20.13.04:815][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_3.Rat_room__4__HG_3
+[2024.05.10-20.13.04:815][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_3.Rat_room__4__HG_3
+[2024.05.10-20.13.04:816][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_3.Rat_room__4__HG_3 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_995
+[2024.05.10-20.13.04:816][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_4.Rat_room__4__HG_4
+[2024.05.10-20.13.04:816][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_4.Rat_room__4__HG_4
+[2024.05.10-20.13.04:817][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_4.Rat_room__4__HG_4 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_996
+[2024.05.10-20.13.04:818][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_5.Rat_room__4__HG_5
+[2024.05.10-20.13.04:818][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_5.Rat_room__4__HG_5
+[2024.05.10-20.13.04:818][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_5.Rat_room__4__HG_5 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_997
+[2024.05.10-20.13.04:819][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_6.Rat_room__4__HG_6
+[2024.05.10-20.13.04:819][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_6.Rat_room__4__HG_6
+[2024.05.10-20.13.04:819][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_6.Rat_room__4__HG_6 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_998
+[2024.05.10-20.13.04:820][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_7.Rat_room__4__HG_7
+[2024.05.10-20.13.04:820][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_7.Rat_room__4__HG_7
+[2024.05.10-20.13.04:820][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_7.Rat_room__4__HG_7 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_999
+[2024.05.10-20.13.04:821][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_8.Rat_room__4__HG_8
+[2024.05.10-20.13.04:821][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_8.Rat_room__4__HG_8
+[2024.05.10-20.13.04:821][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_8.Rat_room__4__HG_8 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1000
+[2024.05.10-20.13.04:822][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Hpost_1.Rat_room__4__Hpost_1
+[2024.05.10-20.13.04:822][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Hpost_1.Rat_room__4__Hpost_1
+[2024.05.10-20.13.04:822][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Hpost_1.Rat_room__4__Hpost_1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1001
+[2024.05.10-20.13.04:824][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_2.Rat_room__4__HPost_2
+[2024.05.10-20.13.04:824][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_2.Rat_room__4__HPost_2
+[2024.05.10-20.13.04:824][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_2.Rat_room__4__HPost_2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1002
+[2024.05.10-20.13.04:824][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_3.Rat_room__4__HPost_3
+[2024.05.10-20.13.04:824][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_3.Rat_room__4__HPost_3
+[2024.05.10-20.13.04:825][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_3.Rat_room__4__HPost_3 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1003
+[2024.05.10-20.13.04:825][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_4.Rat_room__4__HPost_4
+[2024.05.10-20.13.04:825][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_4.Rat_room__4__HPost_4
+[2024.05.10-20.13.04:826][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_4.Rat_room__4__HPost_4 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1004
+[2024.05.10-20.13.04:826][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_5.Rat_room__4__HPost_5
+[2024.05.10-20.13.04:826][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_5.Rat_room__4__HPost_5
+[2024.05.10-20.13.04:827][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_5.Rat_room__4__HPost_5 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1005
+[2024.05.10-20.13.04:827][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_6.Rat_room__4__HPost_6
+[2024.05.10-20.13.04:827][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_6.Rat_room__4__HPost_6
+[2024.05.10-20.13.04:828][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_6.Rat_room__4__HPost_6 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1006
+[2024.05.10-20.13.04:828][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_7.Rat_room__4__HPost_7
+[2024.05.10-20.13.04:828][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_7.Rat_room__4__HPost_7
+[2024.05.10-20.13.04:829][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_7.Rat_room__4__HPost_7 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1007
+[2024.05.10-20.13.04:829][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_8.Rat_room__4__HPost_8
+[2024.05.10-20.13.04:829][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_8.Rat_room__4__HPost_8
+[2024.05.10-20.13.04:830][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_8.Rat_room__4__HPost_8 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1008
+[2024.05.10-20.13.04:831][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_9.Rat_room__4__HPost_9
+[2024.05.10-20.13.04:831][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_9.Rat_room__4__HPost_9
+[2024.05.10-20.13.04:831][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_9.Rat_room__4__HPost_9 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1009
+[2024.05.10-20.13.04:832][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_10.Rat_room__4__HPost_10
+[2024.05.10-20.13.04:832][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_10.Rat_room__4__HPost_10
+[2024.05.10-20.13.04:832][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_10.Rat_room__4__HPost_10 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1010
+[2024.05.10-20.13.04:833][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_11.Rat_room__4__HPost_11
+[2024.05.10-20.13.04:833][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_11.Rat_room__4__HPost_11
+[2024.05.10-20.13.04:833][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_11.Rat_room__4__HPost_11 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1011
+[2024.05.10-20.13.04:834][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_12.Rat_room__4__HPost_12
+[2024.05.10-20.13.04:834][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_12.Rat_room__4__HPost_12
+[2024.05.10-20.13.04:834][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_12.Rat_room__4__HPost_12 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1012
+[2024.05.10-20.13.04:835][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_13.Rat_room__4__HPost_13
+[2024.05.10-20.13.04:835][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_13.Rat_room__4__HPost_13
+[2024.05.10-20.13.04:836][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_13.Rat_room__4__HPost_13 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1013
+[2024.05.10-20.13.04:836][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_14.Rat_room__4__HPost_14
+[2024.05.10-20.13.04:836][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_14.Rat_room__4__HPost_14
+[2024.05.10-20.13.04:837][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_14.Rat_room__4__HPost_14 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1014
+[2024.05.10-20.13.04:837][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_15.Rat_room__4__HPost_15
+[2024.05.10-20.13.04:837][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_15.Rat_room__4__HPost_15
+[2024.05.10-20.13.04:838][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_15.Rat_room__4__HPost_15 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1015
+[2024.05.10-20.13.04:838][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_16.Rat_room__4__HPost_16
+[2024.05.10-20.13.04:839][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_16.Rat_room__4__HPost_16
+[2024.05.10-20.13.04:839][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_16.Rat_room__4__HPost_16 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1016
+[2024.05.10-20.13.04:839][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_17.Rat_room__4__HPost_17
+[2024.05.10-20.13.04:839][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_17.Rat_room__4__HPost_17
+[2024.05.10-20.13.04:840][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_17.Rat_room__4__HPost_17 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1017
+[2024.05.10-20.13.04:840][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_18.Rat_room__4__HPost_18
+[2024.05.10-20.13.04:840][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_18.Rat_room__4__HPost_18
+[2024.05.10-20.13.04:841][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_18.Rat_room__4__HPost_18 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1018
+[2024.05.10-20.13.04:842][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_19.Rat_room__4__HPost_19
+[2024.05.10-20.13.04:842][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_19.Rat_room__4__HPost_19
+[2024.05.10-20.13.04:842][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_19.Rat_room__4__HPost_19 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1019
+[2024.05.10-20.13.04:843][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HR1.Rat_room__4__HR1
+[2024.05.10-20.13.04:843][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HR1.Rat_room__4__HR1
+[2024.05.10-20.13.04:843][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HR1.Rat_room__4__HR1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1020
+[2024.05.10-20.13.04:844][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW2.Rat_room__4__HW2
+[2024.05.10-20.13.04:844][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW2.Rat_room__4__HW2
+[2024.05.10-20.13.04:845][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW2.Rat_room__4__HW2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1021
+[2024.05.10-20.13.04:846][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW3.Rat_room__4__HW3
+[2024.05.10-20.13.04:846][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW3.Rat_room__4__HW3
+[2024.05.10-20.13.04:846][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW3.Rat_room__4__HW3 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1022
+[2024.05.10-20.13.04:847][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW4.Rat_room__4__HW4
+[2024.05.10-20.13.04:847][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW4.Rat_room__4__HW4
+[2024.05.10-20.13.04:847][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW4.Rat_room__4__HW4 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1023
+[2024.05.10-20.13.04:848][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW5.Rat_room__4__HW5
+[2024.05.10-20.13.04:848][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW5.Rat_room__4__HW5
+[2024.05.10-20.13.04:848][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW5.Rat_room__4__HW5 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1024
+[2024.05.10-20.13.04:849][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW6.Rat_room__4__HW6
+[2024.05.10-20.13.04:849][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW6.Rat_room__4__HW6
+[2024.05.10-20.13.04:849][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW6.Rat_room__4__HW6 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1025
+[2024.05.10-20.13.04:850][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW7.Rat_room__4__HW7
+[2024.05.10-20.13.04:850][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW7.Rat_room__4__HW7
+[2024.05.10-20.13.04:850][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW7.Rat_room__4__HW7 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1026
+[2024.05.10-20.13.04:851][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW8.Rat_room__4__HW8
+[2024.05.10-20.13.04:851][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW8.Rat_room__4__HW8
+[2024.05.10-20.13.04:851][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW8.Rat_room__4__HW8 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1027
+[2024.05.10-20.13.04:852][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW_1.Rat_room__4__HW_1
+[2024.05.10-20.13.04:852][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW_1.Rat_room__4__HW_1
+[2024.05.10-20.13.04:852][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW_1.Rat_room__4__HW_1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1028
+[2024.05.10-20.13.05:792][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003
+[2024.05.10-20.13.05:793][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003
+[2024.05.10-20.13.05:795][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1029
+[2024.05.10-20.13.05:826][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HBT.Rat_room__4__HBT
+[2024.05.10-20.13.05:826][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HBT.Rat_room__4__HBT
+[2024.05.10-20.13.05:828][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HBT.Rat_room__4__HBT as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1030
+[2024.05.10-20.13.05:855][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HDB.Rat_room__4__HDB
+[2024.05.10-20.13.05:855][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HDB.Rat_room__4__HDB
+[2024.05.10-20.13.05:857][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HDB.Rat_room__4__HDB as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1031
+[2024.05.10-20.13.05:883][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF1.Rat_room__4__HF1
+[2024.05.10-20.13.05:883][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF1.Rat_room__4__HF1
+[2024.05.10-20.13.05:884][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF1.Rat_room__4__HF1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1032
+[2024.05.10-20.13.05:911][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF2.Rat_room__4__HF2
+[2024.05.10-20.13.05:911][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF2.Rat_room__4__HF2
+[2024.05.10-20.13.05:912][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HF2.Rat_room__4__HF2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1033
+[2024.05.10-20.13.05:938][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_1.Rat_room__4__HG_1
+[2024.05.10-20.13.05:938][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_1.Rat_room__4__HG_1
+[2024.05.10-20.13.05:940][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_1.Rat_room__4__HG_1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1034
+[2024.05.10-20.13.05:965][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_2.Rat_room__4__HG_2
+[2024.05.10-20.13.05:965][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_2.Rat_room__4__HG_2
+[2024.05.10-20.13.05:967][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_2.Rat_room__4__HG_2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1035
+[2024.05.10-20.13.05:991][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_3.Rat_room__4__HG_3
+[2024.05.10-20.13.05:992][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_3.Rat_room__4__HG_3
+[2024.05.10-20.13.05:993][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_3.Rat_room__4__HG_3 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1036
+[2024.05.10-20.13.06:019][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_4.Rat_room__4__HG_4
+[2024.05.10-20.13.06:019][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_4.Rat_room__4__HG_4
+[2024.05.10-20.13.06:020][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_4.Rat_room__4__HG_4 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1037
+[2024.05.10-20.13.06:044][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_5.Rat_room__4__HG_5
+[2024.05.10-20.13.06:044][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_5.Rat_room__4__HG_5
+[2024.05.10-20.13.06:046][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_5.Rat_room__4__HG_5 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1038
+[2024.05.10-20.13.06:071][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_6.Rat_room__4__HG_6
+[2024.05.10-20.13.06:071][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_6.Rat_room__4__HG_6
+[2024.05.10-20.13.06:073][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_6.Rat_room__4__HG_6 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1039
+[2024.05.10-20.13.06:099][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_7.Rat_room__4__HG_7
+[2024.05.10-20.13.06:099][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_7.Rat_room__4__HG_7
+[2024.05.10-20.13.06:100][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_7.Rat_room__4__HG_7 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1040
+[2024.05.10-20.13.06:125][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_8.Rat_room__4__HG_8
+[2024.05.10-20.13.06:125][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_8.Rat_room__4__HG_8
+[2024.05.10-20.13.06:127][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HG_8.Rat_room__4__HG_8 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1041
+[2024.05.10-20.13.06:150][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Hpost_1.Rat_room__4__Hpost_1
+[2024.05.10-20.13.06:150][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Hpost_1.Rat_room__4__Hpost_1
+[2024.05.10-20.13.06:151][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Hpost_1.Rat_room__4__Hpost_1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1042
+[2024.05.10-20.13.06:178][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_2.Rat_room__4__HPost_2
+[2024.05.10-20.13.06:178][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_2.Rat_room__4__HPost_2
+[2024.05.10-20.13.06:179][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_2.Rat_room__4__HPost_2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1043
+[2024.05.10-20.13.06:203][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_3.Rat_room__4__HPost_3
+[2024.05.10-20.13.06:203][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_3.Rat_room__4__HPost_3
+[2024.05.10-20.13.06:204][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_3.Rat_room__4__HPost_3 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1044
+[2024.05.10-20.13.06:228][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_4.Rat_room__4__HPost_4
+[2024.05.10-20.13.06:228][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_4.Rat_room__4__HPost_4
+[2024.05.10-20.13.06:230][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_4.Rat_room__4__HPost_4 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1045
+[2024.05.10-20.13.06:257][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_5.Rat_room__4__HPost_5
+[2024.05.10-20.13.06:257][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_5.Rat_room__4__HPost_5
+[2024.05.10-20.13.06:258][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_5.Rat_room__4__HPost_5 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1046
+[2024.05.10-20.13.06:282][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_6.Rat_room__4__HPost_6
+[2024.05.10-20.13.06:282][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_6.Rat_room__4__HPost_6
+[2024.05.10-20.13.06:284][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_6.Rat_room__4__HPost_6 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1047
+[2024.05.10-20.13.06:308][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_7.Rat_room__4__HPost_7
+[2024.05.10-20.13.06:308][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_7.Rat_room__4__HPost_7
+[2024.05.10-20.13.06:309][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_7.Rat_room__4__HPost_7 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1048
+[2024.05.10-20.13.06:334][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_8.Rat_room__4__HPost_8
+[2024.05.10-20.13.06:334][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_8.Rat_room__4__HPost_8
+[2024.05.10-20.13.06:336][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_8.Rat_room__4__HPost_8 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1049
+[2024.05.10-20.13.06:360][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_9.Rat_room__4__HPost_9
+[2024.05.10-20.13.06:360][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_9.Rat_room__4__HPost_9
+[2024.05.10-20.13.06:362][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_9.Rat_room__4__HPost_9 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1050
+[2024.05.10-20.13.06:385][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_10.Rat_room__4__HPost_10
+[2024.05.10-20.13.06:385][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_10.Rat_room__4__HPost_10
+[2024.05.10-20.13.06:386][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_10.Rat_room__4__HPost_10 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1051
+[2024.05.10-20.13.06:412][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_11.Rat_room__4__HPost_11
+[2024.05.10-20.13.06:412][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_11.Rat_room__4__HPost_11
+[2024.05.10-20.13.06:414][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_11.Rat_room__4__HPost_11 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1052
+[2024.05.10-20.13.06:438][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_12.Rat_room__4__HPost_12
+[2024.05.10-20.13.06:438][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_12.Rat_room__4__HPost_12
+[2024.05.10-20.13.06:439][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_12.Rat_room__4__HPost_12 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1053
+[2024.05.10-20.13.06:464][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_13.Rat_room__4__HPost_13
+[2024.05.10-20.13.06:464][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_13.Rat_room__4__HPost_13
+[2024.05.10-20.13.06:465][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_13.Rat_room__4__HPost_13 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1054
+[2024.05.10-20.13.06:490][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_14.Rat_room__4__HPost_14
+[2024.05.10-20.13.06:490][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_14.Rat_room__4__HPost_14
+[2024.05.10-20.13.06:491][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_14.Rat_room__4__HPost_14 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1055
+[2024.05.10-20.13.06:516][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_15.Rat_room__4__HPost_15
+[2024.05.10-20.13.06:516][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_15.Rat_room__4__HPost_15
+[2024.05.10-20.13.06:518][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_15.Rat_room__4__HPost_15 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1056
+[2024.05.10-20.13.06:541][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_16.Rat_room__4__HPost_16
+[2024.05.10-20.13.06:541][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_16.Rat_room__4__HPost_16
+[2024.05.10-20.13.06:543][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_16.Rat_room__4__HPost_16 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1057
+[2024.05.10-20.13.06:567][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_17.Rat_room__4__HPost_17
+[2024.05.10-20.13.06:567][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_17.Rat_room__4__HPost_17
+[2024.05.10-20.13.06:568][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_17.Rat_room__4__HPost_17 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1058
+[2024.05.10-20.13.06:594][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_18.Rat_room__4__HPost_18
+[2024.05.10-20.13.06:594][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_18.Rat_room__4__HPost_18
+[2024.05.10-20.13.06:595][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_18.Rat_room__4__HPost_18 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1059
+[2024.05.10-20.13.06:620][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_19.Rat_room__4__HPost_19
+[2024.05.10-20.13.06:620][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_19.Rat_room__4__HPost_19
+[2024.05.10-20.13.06:621][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HPost_19.Rat_room__4__HPost_19 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1060
+[2024.05.10-20.13.06:644][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HR1.Rat_room__4__HR1
+[2024.05.10-20.13.06:644][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HR1.Rat_room__4__HR1
+[2024.05.10-20.13.06:646][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HR1.Rat_room__4__HR1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1061
+[2024.05.10-20.13.06:670][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW2.Rat_room__4__HW2
+[2024.05.10-20.13.06:670][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW2.Rat_room__4__HW2
+[2024.05.10-20.13.06:672][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW2.Rat_room__4__HW2 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1062
+[2024.05.10-20.13.06:696][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW3.Rat_room__4__HW3
+[2024.05.10-20.13.06:696][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW3.Rat_room__4__HW3
+[2024.05.10-20.13.06:697][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW3.Rat_room__4__HW3 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1063
+[2024.05.10-20.13.06:721][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW4.Rat_room__4__HW4
+[2024.05.10-20.13.06:721][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW4.Rat_room__4__HW4
+[2024.05.10-20.13.06:722][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW4.Rat_room__4__HW4 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1064
+[2024.05.10-20.13.06:748][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW5.Rat_room__4__HW5
+[2024.05.10-20.13.06:748][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW5.Rat_room__4__HW5
+[2024.05.10-20.13.06:749][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW5.Rat_room__4__HW5 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1065
+[2024.05.10-20.13.06:773][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW6.Rat_room__4__HW6
+[2024.05.10-20.13.06:773][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW6.Rat_room__4__HW6
+[2024.05.10-20.13.06:775][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW6.Rat_room__4__HW6 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1066
+[2024.05.10-20.13.06:800][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW7.Rat_room__4__HW7
+[2024.05.10-20.13.06:800][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW7.Rat_room__4__HW7
+[2024.05.10-20.13.06:802][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW7.Rat_room__4__HW7 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1067
+[2024.05.10-20.13.06:827][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW8.Rat_room__4__HW8
+[2024.05.10-20.13.06:827][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW8.Rat_room__4__HW8
+[2024.05.10-20.13.06:828][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW8.Rat_room__4__HW8 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1068
+[2024.05.10-20.13.06:857][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW_1.Rat_room__4__HW_1
+[2024.05.10-20.13.06:857][104]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW_1.Rat_room__4__HW_1
+[2024.05.10-20.13.06:858][104]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__HW_1.Rat_room__4__HW_1 as actor: StaticMeshActor /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2:PersistentLevel.StaticMeshActor_1069
+[2024.05.10-20.14.04:154][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-20.14.04:155][123]PIE: New page: PIE session: ScottLevel1ver2 (10 May 2024, 22:14:04)
+[2024.05.10-20.14.04:155][123]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.10-20.14.04:211][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056899s)
+[2024.05.10-20.14.04:211][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.056942s)
+[2024.05.10-20.14.04:245][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.10-20.14.04:249][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.14.04:249][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.14.04:249][123]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.10-20.14.04:250][123]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2024.05.10-20.14.04:250][123]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-20.14.04:250][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-20.14.04:250][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-20.14.04:251][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-20.14.04:251][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-20.14.04:251][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-20.14.04:253][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-20.14.04:373][123]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.10-20.14.04:374][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-20.14.04:374][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-20.14.04:374][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-20.14.04:375][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.10-20.14.04:375][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.10-20.14.04:377][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.10-20.14.04:378][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.10-20.14.04:378][123]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.10-20.14.04:378][123]LogAudio: Display: Audio Device (ID: 7) registered with world 'ScottLevel1ver2'.
+[2024.05.10-20.14.04:378][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.10-20.14.04:381][123]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.10-20.14.04:414][123]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.10-21.14.04
+[2024.05.10-20.14.04:415][123]LogWorld: Bringing up level for play took: 0.034125
+[2024.05.10-20.14.04:418][123]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.05.10-20.14.04:429][123]PIE: Server logged in
+[2024.05.10-20.14.04:429][123]PIE: Play in editor total start time 0.275 seconds.
+[2024.05.10-20.14.17:116][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-20.14.17:117][741]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.10-20.14.17:118][741]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.14.17:124][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.17:128][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-20.14.17:133][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.14.17:164][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.10-20.14.17:164][741]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.10-20.14.17:164][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.10-20.14.17:166][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.10-20.14.17:173][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-20.14.17:183][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.10-20.14.17:304][742]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.05.10-20.14.53:716][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.10-20.14.54:420][801]LogSlate: Window 'Save Content' being destroyed
+[2024.05.10-20.14.54:428][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.14.54:601][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.10-20.14.54:837][801]LogSavePackage: Moving output files for package: /Game/ScottStuff/ScottLevel1ver2
+[2024.05.10-20.14.54:838][801]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottLevel1ver2161F0448458C47E864642299401C832D.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap'
+[2024.05.10-20.14.54:863][801]LogFileHelpers: Saving map 'ScottLevel1ver2' took 0.356
+[2024.05.10-20.14.54:888][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 458 ms (total: 6.66 sec)
+[2024.05.10-20.14.54:893][801]AssetCheck: New page: Asset Save: ScottLevel1ver2
+[2024.05.10-20.14.54:893][801]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.10-20.15.09:019][628]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.09:019][628]LogEditorTransaction: Undo Scale Elements
+[2024.05.10-20.15.12:446][803]LogViewport: Scene viewport resized to 907x845, mode Windowed.
+[2024.05.10-20.15.16:780][ 55]LogStaticMesh: Display: Building static mesh Rat_room__4__Glass_Large_Walkway_bridge__001__003...
+[2024.05.10-20.15.16:795][ 55]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003) ...
+[2024.05.10-20.15.16:804][ 55]LogStaticMesh: Built static mesh [0.02s] /Game/ScottStuff/EnviromentModels/FullSets/Rat_Room/Rat_room__4__Glass_Large_Walkway_bridge__001__003.Rat_room__4__Glass_Large_Walkway_bridge__001__003
+[2024.05.10-20.15.21:872][347]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.21:872][347]LogEditorTransaction: Undo Scale Elements
+[2024.05.10-20.15.28:328][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-20.15.28:328][697]PIE: New page: PIE session: ScottLevel1ver2 (10 May 2024, 22:15:28)
+[2024.05.10-20.15.28:328][697]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.10-20.15.28:384][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055557s)
+[2024.05.10-20.15.28:384][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.055620s)
+[2024.05.10-20.15.28:410][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.10-20.15.28:412][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.15.28:413][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.15.28:413][697]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.10-20.15.28:414][697]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2024.05.10-20.15.28:414][697]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-20.15.28:414][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-20.15.28:414][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-20.15.28:415][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-20.15.28:415][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-20.15.28:415][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-20.15.28:417][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-20.15.28:555][697]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.10-20.15.28:555][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-20.15.28:555][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-20.15.28:555][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-20.15.28:556][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.10-20.15.28:557][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.10-20.15.28:558][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.10-20.15.28:558][697]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.10-20.15.28:558][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.10-20.15.28:558][697]LogAudio: Display: Audio Device (ID: 8) registered with world 'ScottLevel1ver2'.
+[2024.05.10-20.15.28:558][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.10-20.15.28:561][697]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.10-20.15.28:595][697]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.10-21.15.28
+[2024.05.10-20.15.28:596][697]LogWorld: Bringing up level for play took: 0.034132
+[2024.05.10-20.15.28:599][697]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.05.10-20.15.28:609][697]PIE: Server logged in
+[2024.05.10-20.15.28:610][697]PIE: Play in editor total start time 0.282 seconds.
+[2024.05.10-20.15.38:587][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-20.15.38:587][152]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.10-20.15.38:590][152]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.15.38:595][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.15.38:601][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-20.15.38:607][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.15.38:644][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.10-20.15.38:644][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.10-20.15.38:645][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.10-20.15.38:647][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.10-20.15.38:654][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-20.15.38:664][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.10-20.15.38:740][153]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.05.10-20.15.39:738][210]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.39:738][210]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.10-20.15.40:459][226]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.40:459][226]LogEditorTransaction: Undo Edit Pivot Part 2 (Visible Geometry)
+[2024.05.10-20.15.41:093][247]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.41:093][247]LogEditorTransaction: Undo Edit Pivot Part 1 (Simple Collision)
+[2024.05.10-20.15.41:721][272]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.41:721][272]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.10-20.15.42:216][285]Cmd: TRANSACTION UNDO
+[2024.05.10-20.15.42:216][285]LogEditorTransaction: Undo Ungroup Selected
+[2024.05.10-20.16.03:094][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.10-20.16.03:094][411]PIE: New page: PIE session: ScottLevel1ver2 (10 May 2024, 22:16:03)
+[2024.05.10-20.16.03:094][411]LogPlayLevel: Creating play world package: /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.10-20.16.03:150][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055371s)
+[2024.05.10-20.16.03:150][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2 to /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 (0.055429s)
+[2024.05.10-20.16.03:176][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.10-20.16.03:178][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.10-20.16.03:179][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.10-20.16.03:179][411]LogAIModule: Creating AISystem for world ScottLevel1ver2
+[2024.05.10-20.16.03:180][411]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2024.05.10-20.16.03:180][411]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.10-20.16.03:180][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.10-20.16.03:180][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.10-20.16.03:180][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.10-20.16.03:180][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.10-20.16.03:180][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.10-20.16.03:183][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.10-20.16.03:302][411]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.10-20.16.03:303][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.10-20.16.03:303][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.10-20.16.03:303][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.10-20.16.03:304][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.10-20.16.03:304][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.10-20.16.03:306][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.10-20.16.03:306][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.10-20.16.03:306][411]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.10-20.16.03:306][411]LogAudio: Display: Audio Device (ID: 9) registered with world 'ScottLevel1ver2'.
+[2024.05.10-20.16.03:306][411]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.10-20.16.03:309][411]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.10-20.16.03:343][411]LogWorld: Bringing World /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2.ScottLevel1ver2 up for play (max tick rate 60) at 2024.05.10-21.16.03
+[2024.05.10-20.16.03:344][411]LogWorld: Bringing up level for play took: 0.034649
+[2024.05.10-20.16.03:347][411]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.05.10-20.16.03:359][411]PIE: Server logged in
+[2024.05.10-20.16.03:361][411]PIE: Play in editor total start time 0.267 seconds.
+[2024.05.10-20.16.10:767][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-20.16.10:767][841]LogWorld: BeginTearingDown for /Game/ScottStuff/UEDPIE_0_ScottLevel1ver2
+[2024.05.10-20.16.10:769][841]LogWorld: UWorld::CleanupWorld for ScottLevel1ver2, bSessionEnded=true, bCleanupResources=true
+[2024.05.10-20.16.10:774][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.16.10:778][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.10-20.16.10:783][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.10-20.16.10:816][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.10-20.16.10:820][841]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.10-20.16.10:820][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.10-20.16.10:822][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.10-20.16.10:843][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.10-20.16.10:918][842]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.05.10-20.16.21:950][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.10-20.16.22:751][446]LogSlate: Window 'Save Content' being destroyed
+[2024.05.10-20.16.22:760][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.10-20.16.22:933][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.10-20.16.23:169][446]LogSavePackage: Moving output files for package: /Game/ScottStuff/ScottLevel1ver2
+[2024.05.10-20.16.23:170][446]LogSavePackage: Moving '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Saved/ScottLevel1ver23DB0F86F4C159F7C3951F9A7AA7A43AE.tmp' to '../../../../../../Users/jmeek/OneDrive/Documents/GitHub/Team-I-LT/LaunchTitle_Group_I/Content/ScottStuff/ScottLevel1ver2.umap'
+[2024.05.10-20.16.23:193][446]LogFileHelpers: Saving map 'ScottLevel1ver2' took 0.353
+[2024.05.10-20.16.23:203][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 442 ms (total: 7.10 sec)
+[2024.05.10-20.16.23:209][446]AssetCheck: New page: Asset Save: ScottLevel1ver2
+[2024.05.10-20.16.23:209][446]LogContentValidation: Display: Validating /Script/Engine.World /Game/ScottStuff/ScottLevel1ver2.ScottLevel1ver2
+[2024.05.10-20.16.25:008][547]LogViewport: Scene viewport resized to 1262x845, mode Windowed.

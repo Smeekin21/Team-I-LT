@@ -3245,31 +3245,3 @@ Script Stack (0 frames) :
 Loss of data caused by narrowing conversion
 
 [2024.05.11-11.29.58:532][635]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2024.05.11-11.30.00:577][635]LogThreadingWindows: Error: Runnable thread Foreground Worker #0 crashed.
-[2024.05.11-11.30.00:578][635]LogWindows: Error: === Critical error: ===
-[2024.05.11-11.30.00:578][635]LogWindows: Error: 
-[2024.05.11-11.30.00:578][635]LogWindows: Error: Assertion failed: IntFitsIn<OutType>(In) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\UnrealTemplate.h] [Line: 163] 
-[2024.05.11-11.30.00:578][635]LogWindows: Error: Loss of data caused by narrowing conversion
-[2024.05.11-11.30.00:578][635]LogWindows: Error: 
-[2024.05.11-11.30.00:578][635]LogWindows: Error: 
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8aad782a3 UnrealEditor-Renderer.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8aad8e829 UnrealEditor-Renderer.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8aad98276 UnrealEditor-Renderer.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8aada43a7 UnrealEditor-Renderer.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4df227d UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4dfafd3 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4e08cd5 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4e08a7c UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4de8a62 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4e308a7 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4df8b60 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e4fdf773 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e5414e32 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff8e5408667 UnrealEditor-Core.dll!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: [Callstack] 0x00007ff9b47f257d KERNEL32.DLL!UnknownFunction []
-[2024.05.11-11.30.00:578][635]LogWindows: Error: 
-[2024.05.11-11.30.00:578][635]LogWindows: Error: Crash in runnable thread Foreground Worker #0
-[2024.05.11-11.30.00:599][635]LogExit: Executing StaticShutdownAfterError
-[2024.05.11-11.30.00:659][635]LogWindows: FPlatformMisc::RequestExit(1, FRunnableThreadWin::GuardedRun.ExceptionHandler)
-[2024.05.11-11.30.00:659][635]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, FRunnableThreadWin::GuardedRun.ExceptionHandler)
-[2024.05.11-11.30.00:659][635]LogCore: Engine exit requested (reason: Win RequestExit)
